@@ -27,7 +27,8 @@ This will not be updated anymore, feel free to take it and do whatever with it.
     * [3.2 Weaving & Tailor](#32-weaving--tailor)
     * [3.3 Gemcutting & Jewelcrafting](#33-gemcutting--jewelcrafting)
     * [3.4 Woodcutting & Carpentry](#34-woodcutting--carpentry-tbda)
-    * [3.5 Enhancement, Stats, Tips](#35-enhancement-stats-tips)
+    * [3.5 Extracting & Enchanting](#35-extracting--enchanting-tips)
+    * [3.6 Enhancement, Stats, Tips](#36-enhancement-stats-tips)
 * [4.0 Loose Ends](#40-loose-ends)
     * [4.1 Bugs & Suggestions](#41-bugs--suggestions)
     * [4.2 FAQ](#42-faq)
@@ -938,7 +939,12 @@ Not currently available in the game.
 
 ---
 
-## 3.5 Enhancement, Stats, Tips
+## 3.5 Extracting / Enchanting
+Currently updating.. Please be patient.
+
+---
+
+## 3.6 Enhancement, Stats, Tips
 Enhancement rate for every craft increases with **material tier** and **crafting rank**.
 
 It is generally best to only enhance items you are willing to lose.
