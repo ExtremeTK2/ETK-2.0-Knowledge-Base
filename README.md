@@ -960,6 +960,8 @@ Enchanting allows you to use Giun to enchant your gear. This can be done at Jin-
 | Hands | +1 Stat, +1-3 Stat |
 | Necklaces | +1 Stat, +1-3 Stat |
 
+Each week, you can also Research a new enchantment. The results are random, but we'll keep them a secret for now.
+
 ---
 
 ## 3.6 Enhancement, Stats, Tips
