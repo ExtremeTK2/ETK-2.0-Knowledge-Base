@@ -944,7 +944,7 @@ Not currently available in the game.
 ### Extracting
 Extracting allows you to break down gear and equipment into Giun. This can be done at Jin-woo's Home at 103,106.
 
-The following Giun can be extracted from gear, dependant on the level:
+The following Giun can be extracted from gear, dependant on the level: <br>
 Faint Giun, Lesser Giun, Common Giun, Greater Giun, Pure Giun, Radiant Giun
 
 ### Enchanting
