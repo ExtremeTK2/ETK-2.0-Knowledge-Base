@@ -952,11 +952,13 @@ Enchanting allows you to use Giun to enchant your gear. This can be done at Jin-
 
 | Gear | Options |
 | :--- | :--- |
-| Boots | +1 Stat, Swift Step (+3-8 Move Speed) |
-| Gloves | +1 Stat, Salve (+5-12% Healing) |
-| Armor | +1 Stat |
-| Shield | +1 Stat |
-| Weapon | Fiery (+15-35 Fire damage on hit) |
+| Boots | +1 Stat, +1-3 Stat, +2-5 Stat, Swift Step (+3-8 Move Speed) |
+| Gloves | +1 Stat, +1-3 Stat, +2-5 Stat, Salve (+5-12% Healing) |
+| Armor | +1 Stat, +1-3 Stat |
+| Shield | +1 Stat, +1-3 Stat |
+| Weapon | +1 Stat, +1-3 Stat, Fiery (+15-35 Fire damage on hit) |
+| Hands | +1 Stat, +1-3 Stat |
+| Necklaces | +1 Stat, +1-3 Stat |
 
 ---
 
