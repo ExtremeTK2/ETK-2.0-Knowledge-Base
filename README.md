@@ -27,7 +27,7 @@ This will not be updated anymore, feel free to take it and do whatever with it.
     * [3.2 Weaving & Tailor](#32-weaving--tailor)
     * [3.3 Gemcutting & Jewelcrafting](#33-gemcutting--jewelcrafting)
     * [3.4 Woodcutting & Carpentry](#34-woodcutting--carpentry-tbda)
-    * [3.5 Extracting & Enchanting](#35-extracting--enchanting-tips)
+    * [3.5 Extracting & Enchanting](#35-extracting--enchanting)
     * [3.6 Enhancement, Stats, Tips](#36-enhancement-stats-tips)
 * [4.0 Loose Ends](#40-loose-ends)
     * [4.1 Bugs & Suggestions](#41-bugs--suggestions)
@@ -39,7 +39,7 @@ This will not be updated anymore, feel free to take it and do whatever with it.
 ---
 
 ## 1.0 Introduction to the ETK2 Alpha Test
-This is the beginning phase of development.
+This is the beginning phase of development.c
 * **Developer:** The only developer involved in this project is **Stelio**.
 * **Tester Objectives:** Find as many bugs as possible, test the quality of the game, and report your findings.
 * **Official Website:** [therealmofchaos.com](https://therealmofchaos.com/)
