@@ -940,7 +940,23 @@ Not currently available in the game.
 ---
 
 ## 3.5 Extracting / Enchanting
-Currently updating.. Please be patient.
+
+### Extracting
+Extracting allows you to break down gear and equipment into Giun. This can be done at Jin-woo's Home at 103,106.
+
+The following Giun can be extracted from gear, dependant on the level:
+Faint Giun, Lesser Giun, Common Giun, Greater Giun, Pure Giun, Radiant Giun
+
+### Enchanting
+Enchanting allows you to use Giun to enchant your gear. This can be done at Jin-woo's Home at 103,106. Enchanting can only currently be done once per item. There is an option to craft a Disenchanting Scroll, but it has not yet been implemented.
+
+| Gear | Options |
+| :--- | :--- |
+| Boots | +1 Stat, Swift Step (+3-8 Move Speed) |
+| Gloves | +1 Stat, Salve (+5-12% Healing) |
+| Armor | +1 Stat |
+| Shield | +1 Stat |
+| Weapon | Fiery (+15-35 Fire damage on hit) |
 
 ---
 
