@@ -1345,6 +1345,9 @@ Yep, That's it.
 
 ## 4.6 Additional Resources
 
+**Official ETK Website:**
+https://therealmofchaos.com/
+
 **Spell requirement calculators by Nova:**  
 Main site — https://etkskillcalc.com/  
 Alternative — https://etk2skillcalc.netlify.app/
