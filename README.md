@@ -1,9 +1,11 @@
 # Knowledge-Base
+
+**Please note that this is not updated by ETK GM's, but rather by the players.**
+
 A nearly comprehensive compendium pertaining to ETK2 Alpha.<br>
 This is the complete, community‑maintained knowledge base for ETK2 Alpha.<br>
 It covers classes, crafting, minigames, group strategy, and progression.<br>
 
-This will not be updated anymore, feel free to take it and do whatever with it.
 
 # ETK2 Alpha Test Knowledge Base
 
