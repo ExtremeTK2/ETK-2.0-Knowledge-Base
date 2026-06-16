@@ -964,11 +964,11 @@ Enchanting allows you to use Giun to enchant your gear. This can be done at Jin-
 | Fiery I | 3x Lesser Giun, 5x Faint Giun | 1125 | Weapon Only |
 
 ### Enchantment Effects:
-Swift Step I gives +3-8 move speed
-Insight V* gives +5 intelligence
-Vita Attack Power I* gives +10-20% damage to Vita Attacks
-Salve I gives +5-12% healing done
-Fiery I gives +15-35 fire damage on hit
+Swift Step I gives +3-8 move speed<br>
+Insight V* gives +5 intelligence<br>
+Vita Attack Power I* gives +10-20% damage to Vita Attacks<br>
+Salve I gives +5-12% healing done<br>
+Fiery I gives +15-35 fire damage on hit<br>
 
 Each week, you can also Research a new enchantment. Those with * are researched enchantments.
 
