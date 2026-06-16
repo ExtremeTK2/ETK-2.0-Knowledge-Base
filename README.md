@@ -962,8 +962,8 @@ Enchanting allows you to use Giun to enchant your gear. This can be done at Jin-
 | Vita Attack Power I* | 3x Common Giun, 1x Greater Giun | 2250 | Boots Only | +10-20% damage to Vita Attacks |
 | Salve I | 2x Common Giun | Unknown | Gloves Only | +5-12% healing done |
 | Fiery I | 3x Lesser Giun, 5x Faint Giun | 1125 | Weapon Only | +15-35 fire damage on hit |
-<br>
-### Additional Notes<br>
+
+### Additional Notes
 Each week, you can also Research a new enchantment.<br>
 Enchants with * are researched enchantments.<br>
 Helms cannot be enchanted. Everything else can.
