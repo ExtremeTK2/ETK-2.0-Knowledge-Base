@@ -952,17 +952,25 @@ Faint Giun, Lesser Giun, Common Giun, Greater Giun, Pure Giun, Radiant Giun
 ### Enchanting
 Enchanting allows you to use Giun to enchant your gear. This can be done at Jin-woo's Home at 103,106. Enchanting can only currently be done once per item. There is an option to craft a Disenchanting Scroll, but it has not yet been implemented.
 
-| Gear | Options |
-| :--- | :--- |
-| Boots | +1 Stat, +1-3 Stat, +2-5 Stat, Swift Step (+3-8 Move Speed) |
-| Gloves | +1 Stat, +1-3 Stat, +2-5 Stat, Salve (+5-12% Healing) |
-| Armor | +1 Stat, +1-3 Stat |
-| Shield | +1 Stat, +1-3 Stat |
-| Weapon | +1 Stat, +1-3 Stat, Fiery (+15-35 Fire damage on hit) |
-| Hands | +1 Stat, +1-3 Stat |
-| Necklaces | +1 Stat, +1-3 Stat |
+| Enchant | Mats Required | Exp Given | Equipment |
+| :--- | :--- | :--- | :--- |
+| +1 Stat | 1x Faint Giun | 375 | All |
+| +1-3 Stat | 2x Lesser Giun | 1125 | All |
+| +2-5 Stat | 2x Common Giun | 3750 | All |
+| Swift Step I | 2x Common Giun | 1125 | Boots Only |
+| Insight V* | 3x Greater Giun, 1x Pure Giun | Boots Only |
+| Vita Attack Power I* | 3x Common Giun, 1x Greater Giun | 2250 | Boots Only |
+| Salve I | Unknown | Unknown | Gloves Only |
+| Fiery I | 3x Lesser Giun, 5x Faint Giun | 1125 | Weapon Only |
 
-Each week, you can also Research a new enchantment. The results are random, but we'll keep them a secret for now.
+## Enchantment Effects:
+Swift Step I gives +3-8 move speed
+Insight V* gives +5 intelligence
+Vita Attack Power I* gives +10-20% damage to Vita Attacks
+Salve I gives +5-12% healing done
+Fiery I gives +15-35 fire damage on hit
+
+Each week, you can also Research a new enchantment. Those with * are researched enchantments.
 
 ---
 
