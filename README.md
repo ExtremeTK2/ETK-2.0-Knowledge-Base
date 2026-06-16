@@ -952,24 +952,17 @@ Faint Giun, Lesser Giun, Common Giun, Greater Giun, Pure Giun, Radiant Giun
 ### Enchanting
 Enchanting allows you to use Giun to enchant your gear. This can be done at Jin-woo's Home at 103,106. Enchanting can only currently be done once per item. There is an option to craft a Disenchanting Scroll, but it has not yet been implemented.
 
-| Enchant | Mats Required | Exp Given | Equipment |
-| :--- | :--- | :--- | :--- |
-| +1 Stat | 1x Faint Giun | 375 | All |
-| +1-3 Stat | 2x Lesser Giun | 1125 | All |
-| +2-5 Stat | 2x Common Giun | 3750 | All |
-| Swift Step I | 2x Common Giun | 1125 | Boots Only |
-| Insight V* | 3x Greater Giun, 1x Pure Giun | 3750 | Boots Only |
-| Vita Attack Power I* | 3x Common Giun, 1x Greater Giun | 2250 | Boots Only |
-| Salve I | Unknown | Unknown | Gloves Only |
-| Fiery I | 3x Lesser Giun, 5x Faint Giun | 1125 | Weapon Only |
-
-### Enchantment Effects:
-Swift Step I gives +3-8 move speed<br>
-Insight V* gives +5 intelligence<br>
-Vita Attack Power I* gives +10-20% damage to Vita Attacks<br>
-Salve I gives +5-12% healing done<br>
-Fiery I gives +15-35 fire damage on hit<br>
-
+| Enchant | Mats Required | Exp Given | Equipment | Effect |
+| :--- | :--- | :--- | :--- | :--- |
+| +1 Stat | 1x Faint Giun | 375 | All | +1 Stat point of selected stat |
+| +1-3 Stat | 2x Lesser Giun | 1125 | All | +1-3 Stat points of selected stat |
+| +2-5 Stat | 2x Common Giun | 3750 | All | + 2-5 Stat points of selected stat |
+| Swift Step I | 2x Common Giun | 1125 | Boots Only | +3-8 move speed |
+| Insight V* | 3x Greater Giun, 1x Pure Giun | 3750 | Boots Only | +5 intelligence |
+| Vita Attack Power I* | 3x Common Giun, 1x Greater Giun | 2250 | Boots Only | +10-20% damage to Vita Attacks |
+| Salve I | Unknown | Unknown | Gloves Only | +5-12% healing done |
+| Fiery I | 3x Lesser Giun, 5x Faint Giun | 1125 | Weapon Only | +15-35 fire damage on hit |
+<br>
 Each week, you can also Research a new enchantment. Those with * are researched enchantments.
 
 ---
