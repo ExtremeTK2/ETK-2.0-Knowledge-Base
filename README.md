@@ -956,8 +956,8 @@ Enchanting allows you to use Giun to enchant your gear. This can be done at Jin-
 | :--- | :--- | :--- | :--- | :--- |
 | +1 Stat | 1x Faint Giun | 375 | All | +1 Stat point of selected stat |
 | +1-3 Stat | 2x Lesser Giun | 1125 | All | +1-3 Stat points of selected stat |
-| +2-5 Stat | 2x Common Giun | 3750 | All | + 2-5 Stat points of selected stat |
-| +4-8 | 2x Greater Giun | 11250 | All | +4-8 Stat points of selected stat |
+| +2-5 Stat | 2x Common Giun | 3750 | All | +2-5 Stat points of selected stat |
+| +4-8 Stat | 2x Greater Giun | 11250 | All | +4-8 Stat points of selected stat |
 | Swift Step I | 2x Common Giun | 1125 | Boots Only | +3-8 move speed |
 | Insight V* | 3x Greater Giun, 1x Pure Giun | 3750 | Boots Only | +5 intelligence |
 | Vita Attack Power I* | 3x Common Giun, 1x Greater Giun | 2250 | Boots Only | +10-20% damage to Vita Attacks |
