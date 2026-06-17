@@ -1366,7 +1366,7 @@ https://etk2tnlcalc.netlify.app/
 ---
 ---
 
-**Last updated:** 6/11/2026  
+**Last updated:** 6/16/2026  
 **Version:** ETK2 Alpha Knowledge Base v1.0  
 **Original Author** Adv / .\_a\_o_i\_.7<br>
 **Recently Updated by:** CerealKiller
