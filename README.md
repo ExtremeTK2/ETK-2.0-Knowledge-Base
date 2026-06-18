@@ -32,7 +32,7 @@ It covers classes, crafting, minigames, group strategy, and progression.<br>
     * [3.5 Extracting & Enchanting](#35-extracting--enchanting)
     * [3.6 Enhancement, Stats, Tips](#36-enhancement-stats-tips)
 * [4.0 Quest Lines](#50-quest-lines)
-    * [4.1 Crypt Quest Line](#51-crypt--quest-line)
+    * [4.1 Crypt Quest Line](#41-crypt--quest-line)
 * [5.0 Loose Ends](#50-loose-ends)
     * [5.1 Bugs & Suggestions](#51-bugs--suggestions)
     * [5.2 FAQ](#52-faq)
