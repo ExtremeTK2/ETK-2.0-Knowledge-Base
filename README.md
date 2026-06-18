@@ -31,13 +31,14 @@ It covers classes, crafting, minigames, group strategy, and progression.<br>
     * [3.4 Woodcutting & Carpentry](#34-woodcutting--carpentry-tbda)
     * [3.5 Extracting & Enchanting](#35-extracting--enchanting)
     * [3.6 Enhancement, Stats, Tips](#36-enhancement-stats-tips)
-* [4.0 Loose Ends](#40-loose-ends)
-    * [4.1 Bugs & Suggestions](#41-bugs--suggestions)
-    * [4.2 FAQ](#42-faq)
-    * [4.3 Minigames](#43-minigames)
-    * [4.4 Cave Chart](#44-cave-chart)
-    * [4.5 Gear Lists](#45-gear-lists)
-    * [4.6 Additional Resources](#46-additional-resources)
+* [4.0 Quest Lines](#50-quest-lines)
+* [5.0 Loose Ends](#50-loose-ends)
+    * [5.1 Bugs & Suggestions](#51-bugs--suggestions)
+    * [5.2 FAQ](#52-faq)
+    * [5.3 Minigames](#53-minigames)
+    * [5.4 Cave Chart](#54-cave-chart)
+    * [5.5 Gear Lists](#55-gear-lists)
+    * [5.6 Additional Resources](#56-additional-resources)
 ---
 
 ## 1.0 Introduction to the ETK2 Alpha Test
@@ -986,13 +987,16 @@ Generally, you should stock multiple sets of high‑stat‑roll gear before enha
 
 ---
 
+## 4.0 Quest Lines
 
-## 4.0 Loose Ends
+---
+
+## 5.0 Loose Ends
 This section addresses remaining things players may want to know.
 
 ---
 
-## 4.1 Bugs & Suggestions
+## 5.1 Bugs & Suggestions
 It is best to report bugs and make suggestions in the Discord forum threads.
 
 When reporting bugs, it helps greatly to replicate and document the steps required to reproduce the issue.  
@@ -1010,7 +1014,7 @@ This means an idea isn't worthless by default, sometimes it just needs another a
 
 ---
 
-## 4.2 FAQ
+## 5.2 FAQ
 
 **Question — Is dual logging / multiboxing allowed?**  
 Answer — Yes.
@@ -1039,7 +1043,7 @@ Answer — When a GM opens them.
 
 ---
 
-## 4.3 Minigames
+## 5.3 Minigames
 There are currently **6 minigames** in ETK2:  
 Paintball, Elixir, Sumo, Pillowfight, Deathball, and Carnage.
 
@@ -1120,7 +1124,7 @@ Classic team PvP.
 ---
 
 
-## 4.4 Cave Chart
+## 5.4 Cave Chart
 
 ### Crypt
 
@@ -1270,7 +1274,7 @@ Classic team PvP.
 
 ---
 
-## 4.5 Gear Lists
+## 5.5 Gear Lists
 
   * **Will Expand upon this as I get more items to work with.**
 
@@ -1350,7 +1354,7 @@ Yep, That's it.
 ---
 
 
-## 4.6 Additional Resources
+## 5.6 Additional Resources
 
 **Official ETK Website:**
 https://therealmofchaos.com/
