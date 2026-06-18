@@ -989,6 +989,40 @@ Generally, you should stock multiple sets of high‑stat‑roll gear before enha
 
 ## 4.0 Quest Lines
 
+### 4.1 Crypt Quest Line
+<details>
+<summary><b>Click to expand Crypt Quest Line</b></summary>
+
+| Location | Step | Reward |
+| :--- | :--- | :--- |
+| **Crypt 1** | Kill 5 Mice | 10 xp |
+| **Crypt 2** | Kill 10 Mice & 2 Rats | 40 xp |
+| **Crypt 3** | Kill 10 Rats | 85 xp |
+| **Crypt 4** | Kill 25 Skeletons | 125 xp |
+| **Crypt 5** | Kill 40 Skeletons | 150 xp |
+| **Crypt 6** | Kill 25 Cursed Skeletons | 200 xp |
+| **Crypt 7** | Kill 35 Cursed Skeletons & Tormented Soul | 250 xp |
+| **Crypt 8** | Kill 25 Resilient Skeletons | 300 xp |
+| **Crypt 9** | Kill 40 Resilient Skeletons | 300 xp |
+| **Crypt 10** | Kill 40 Skeletal Knights | 350 xp |
+| **Crypt 11** | Kill 40 Skeletal Knights... again. | 350 xp |
+| **Crypt 12** | Kill 25 Skeletal Captains | 400 xp |
+| **Crypt 13** | Kill 40 Skeletal Captains | 400 xp |
+| **Crypt 14** | Kill 40 Skeletal Emissaries | 500 xp |
+| **Crypt 15** | Kill 40 Skeletal Guardians | 750 xp |
+| **Crypt 16** | Kill 40 Burning Skeletons | 3,000 xp |
+| **Crypt 17** | Kill 40 Haunting Skeletons | 4,000 xp |
+| **Crypt 18** | Kill 40 Skeletal Terrors | 10,000 xp |
+| **Crypt 19** | Kill 40 Radiant Skeletons | 20,000 xp |
+| **Crypt 20** | Kill 40 Vicious Skeletons | 30,000 xp |
+| **Seonhwa Library** | Talk to the Librarian | 15,000 xp |
+| **Seonhwa Council** | Talk to Eun-Ae | 15,000 xp |
+| **Seonhwa** | Collect 10 Raw Ruby, 10 Pristing Bone, 5 Old Bone, & 1 Sun Helm | 5,000 xp & Warding Charm |
+| **Crypt Prison** | Defeat Gloth | 5,000 xp & 12k+ coins |
+| **Seonhwa Library** | Talk to Librarian | 15,000 xp |
+
+</details>
+
 ---
 
 ## 5.0 Loose Ends
