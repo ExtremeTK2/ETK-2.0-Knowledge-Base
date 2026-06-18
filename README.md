@@ -1018,7 +1018,7 @@ Generally, you should stock multiple sets of high‑stat‑roll gear before enha
 | **Crypt 20** | Kill 40 Vicious Skeletons | 30,000 xp |
 | **Seonhwa Library** | Talk to the Librarian | 15,000 xp |
 | **Seonhwa Council** | Talk to Eun-Ae | 15,000 xp |
-| **Seonhwa** | Collect 10 Raw Ruby, 10 Pristing Bone, 5 Old Bone, & 1 Sun Helm | 5,000 xp & Warding Charm |
+| **Seonhwa** | Collect 10 Raw Ruby, 10 Pristine Bone, 5 Old Bone, & 1 Sun Helm | 5,000 xp & Warding Charm |
 | **Crypt Prison** | Defeat Gloth | 5,000 xp & 12k+ coins |
 | **Seonhwa Library** | Talk to Librarian | 15,000 xp |
 
