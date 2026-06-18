@@ -991,6 +991,9 @@ Generally, you should stock multiple sets of high‑stat‑roll gear before enha
 ## 4.0 Quest Lines
 
 ### 4.1 Crypt Quest Line
+
+Click the Quest below to expand. There will be spoilers.
+
 <details>
 <summary><b>Click to expand Crypt Quest Line</b></summary>
 
@@ -1019,7 +1022,7 @@ Generally, you should stock multiple sets of high‑stat‑roll gear before enha
 | **Seonhwa Library** | Talk to the Librarian | 15,000 xp |
 | **Seonhwa Council** | Talk to Eun-Ae | 15,000 xp |
 | **Seonhwa** | Collect 10 Raw Ruby, 10 Pristine Bone, 5 Old Bone, & 1 Sun Helm | 5,000 xp & Warding Charm |
-| **Crypt Prison** | Defeat Gloth | 5,000 xp & 12k+ coins |
+| **Crypt Prison** | Defeat Gloth | 5,000 xp & 10- 15k coins |
 | **Seonhwa Library** | Talk to Librarian | 15,000 xp |
 
 </details>
