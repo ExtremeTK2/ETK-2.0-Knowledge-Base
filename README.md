@@ -140,7 +140,7 @@ The first thing you should do upon starting the game is the **Tutor Quest**.
 | **Level 10-15** | Crypts: Rooms 4 & 5 |
 | **Level 15+** | Fox |
 
-See **[4.4 Cave Chart](#44-cave-chart)** for full cave details.
+See **[5.4 Cave Chart](#54-cave-chart)** for full cave details.
 ---
 
 ## 1.3 Stats
