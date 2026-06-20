@@ -1186,9 +1186,9 @@ Classic team PvP.
 | Room 19     | 60    | Radiant Skeleton      |
 | Room 20     | 65    | Vicious Skeleton      |
 | Room 21 | 70 | Lost Soul |
-| Room 22 | 75 | ????? |
-| Room 23 | 80 | ????? |
-| Room 24 | 85 | ????? |
+| Room 22 | 75 | Trapped Soul |
+| Room 23 | 80 | Wandering Soul |
+| Room 24 | 85 | Angered Soul |
 | Room 25 | 90 | ????? |
 | Room 26 | 95 | ????? |
 
