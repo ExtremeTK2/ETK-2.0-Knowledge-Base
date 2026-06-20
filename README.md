@@ -146,7 +146,7 @@ See **[4.4 Cave Chart](#44-cave-chart)** for full cave details.
 ## 1.3 Stats
 | Stat | Description |
 | :--- | :--- |
-| **CON** | Influences HP/Vita per level. Effectiveness is higher when bought at lower levels (e.g., Level 2-6 vs Level 45-50). |
+| **CON** | Influences HP/Vita per level. |
 | **WIS** | Influences MP for Wizards and Clerics. Scales Zap crit chance for Wizards. |
 | **INT** | Purpose varies by class. |
 | **STR** | 3 points = 1 damage. Scales hit rate for melee. |
@@ -172,6 +172,9 @@ See **[4.4 Cave Chart](#44-cave-chart)** for full cave details.
 | **Class Guilds** | Become a Ranger, Wizard, Monk, Guardian, or Cleric and buy spells. |
 | **Caves/Dens** | Crypt (1-65), Fox Den (15), Insect Tunnels (25), Boar's Den (30), Bear (35), Wolf (40), Swamp (50 instance). |
 | **Carpenter/Potion** | Currently not available/empty buildings. |
+| **Enchanter** | Enchant gear for additional stats or extract Giun from unneeded gear. |
+| **Library** | Home of the Librarian and you can find Seul-Ki here. |
+| **Manor** | Here you will find Yoo-Ri, Tae-Sung, Beom-Seok, and Eun-Ae throughout differet rooms. |
 
 </details>
 
