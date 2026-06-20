@@ -1185,6 +1185,12 @@ Classic team PvP.
 | Room 18     | 55    | Skeletal Terror       |
 | Room 19     | 60    | Radiant Skeleton      |
 | Room 20     | 65    | Vicious Skeleton      |
+| Room 21 | 70 | Lost Soul |
+| Room 22 | 75 | ????? |
+| Room 23 | 80 | ????? |
+| Room 24 | 85 | ????? |
+| Room 25 | 90 | ????? |
+| Room 26 | 95 | ????? |
 
 *   **Blacks rats in rooms 1-3 drop Purple rings, level 6 weapons, level 6 shields.**
 
