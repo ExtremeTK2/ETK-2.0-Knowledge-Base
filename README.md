@@ -171,10 +171,11 @@ See **[5.4 Cave Chart](#54-cave-chart)** for full cave details.
 | **Messenger** | NPC for stat respecs. |
 | **Class Guilds** | Become a Ranger, Wizard, Monk, Guardian, or Cleric and buy spells. |
 | **Caves/Dens** | Crypt (1-65), Fox Den (15), Insect Tunnels (25), Boar's Den (30), Bear (35), Wolf (40), Swamp (50 instance). |
-| **Carpenter/Potion** | Currently not available/empty buildings. |
+| **Potion/Apothecary** | Yeon-Hwa currently only buys Tainted Giun. |
 | **Enchanter** | Enchant gear for additional stats or extract Giun from unneeded gear. |
 | **Library** | Home of the Librarian and you can find Seul-Ki here. |
 | **Manor** | Here you will find Yoo-Ri, Tae-Sung, Beom-Seok, and Eun-Ae throughout differet rooms. |
+| **Carpenter** | Currently not available/empty building. |
 
 </details>
 
