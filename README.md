@@ -1190,7 +1190,7 @@ Classic team PvP.
 | Room 22 | 75 | Trapped Soul |
 | Room 23 | 80 | Wandering Soul |
 | Room 24 | 85 | Angered Soul |
-| Room 25 | 90 | ????? |
+| Room 25 | 90 | Cursed Soul |
 | Room 26 | 95 | ????? |
 
 *   **Blacks rats in rooms 1-3 drop Purple rings, level 6 weapons, level 6 shields.**
