@@ -950,7 +950,7 @@ To begin woodcutting, go to the carpenter in Seonhwa. Click Learn Woodcutting.
 
 | Cave | Wood cut |
 | :--- | :--- |
-| Fox cave | Pine log |
+| Fox Den | Pine log |
 | Boar's Den | Oak log |
 
 
