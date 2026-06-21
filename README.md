@@ -28,7 +28,7 @@ It covers classes, crafting, minigames, group strategy, and progression.<br>
     * [3.1 Mining & Smithing](#31-mining--smithing)
     * [3.2 Weaving & Tailor](#32-weaving--tailor)
     * [3.3 Gemcutting & Jewelcrafting](#33-gemcutting--jewelcrafting)
-    * [3.4 Woodcutting & Carpentry](#34-woodcutting--carpentry-tbda)
+    * [3.4 Woodcutting & Carpentry](#34-woodcutting--carpentry)
     * [3.5 Extracting & Enchanting](#35-extracting--enchanting)
     * [3.6 Enhancement, Stats, Tips](#36-enhancement-stats-tips)
 * [4.0 Quest Lines](#50-quest-lines)
@@ -942,8 +942,17 @@ Cracked gems can be used to enhance throwaway jewelery for additional experience
 
 ---
 
-## 3.4 Woodcutting / Carpentry (TBD/A)
-Not currently available in the game.
+## 3.4 Woodcutting / Carpentry
+
+**Updating in progress**
+
+To begin woodcutting, go to the carpenter in Seonhwa. Click Learn Woodcutting. 
+
+| Cave | Wood cut |
+| :--- | :--- |
+| Fox cave | Pine log |
+| Boar's Den | Oak log |
+
 
 ---
 
