@@ -953,7 +953,7 @@ To begin woodcutting, go to the carpenter in Seonhwa. Click Learn Woodcutting.
 | Fox Den | Pine log | Iron Axe |
 | Boar's Den | Oak log | Iron Axe |
 | Wilderness Den | Maple log | Steel Axe |
-| Wolf's Run | Cherry log | Iron Axe |
+| Wolf's Run | Cherry log | Steel Axe |
 
 
 ---
