@@ -950,10 +950,10 @@ To begin woodcutting, go to the carpenter in Seonhwa. Click Learn Woodcutting.
 
 | Cave | Wood cut | Axe |
 | :--- | :--- | :--- |
-| Fox Den | Pine log | Iron Axe |
-| Boar's Den | Oak log | Iron Axe |
-| Wilderness Den | Maple log | Steel Axe |
-| Wolf's Run | Cherry log | Steel Axe |
+| Fox Den | Pine tree | Iron Axe |
+| Boar's Den | Oak tree | Iron Axe |
+| Wilderness Den | Maple tree | Steel Axe |
+| Wolf's Run | Cherry tree | Steel Axe |
 
 
 ---
