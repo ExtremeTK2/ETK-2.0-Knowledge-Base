@@ -948,10 +948,12 @@ Cracked gems can be used to enhance throwaway jewelery for additional experience
 
 To begin woodcutting, go to the carpenter in Seonhwa. Click Learn Woodcutting. 
 
-| Cave | Wood cut |
-| :--- | :--- |
-| Fox Den | Pine log |
-| Boar's Den | Oak log |
+| Cave | Wood cut | Axe |
+| :--- | :--- | :--- |
+| Fox Den | Pine log | Iron Axe |
+| Boar's Den | Oak log | Iron Axe |
+| Wilderness Den | Maple log | Steel Axe |
+| Wolf's Run | Cherry log | Iron Axe |
 
 
 ---
