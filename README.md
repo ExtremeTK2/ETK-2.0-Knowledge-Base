@@ -908,15 +908,30 @@ To begin weaving, you must first collect furs.
 
 Weaving is done at the tailor.  
 Fur must be woven into cloth before tailoring.
+  dddds
+| Fur Used | Success Result | Fail Result |
+| :--- | :--- | :--- |
+| Fox Fur | Tattered Cloth | Tattered Scraps |
+| Small Bear Pelt | Cloth | Cloth Scraps |
+| Bear Pelt | Sturdy Cloth | Sturdy Scraps |
+| Aged Bear Pelt | Fine Cloth | Fine Scraps |
+| Wolf's Fur | Fine Cloth | Fine Scraps |
+
 
 The tailor allows creation of monk/wizard/cleric armor.  
 It also allows crafting of:
 
-- Light boots (Monk/Ranger)  
-- Cloth boots (Wizard/Cleric)
+| Class | Item | Lvl to equip | Mats needed |
+| :--- | :--- | :--- | :--- |
+| Monk/Ranger | Leather Boots | 15 | 5x Tattered Cloth, 2x Tattered Scraps, 1x Resilient Thread |
+| Monk/Ranger | Rugged Boots | 35 | 10x Sturdy Cloth, 5x Sturdy Scraps, 5x Resilient Thread |
+| Monk/Ranger | Leather Boots | 55 | 10x Fine Cloth, 2x Fine Scraps, 10x Resilient Thread |
+| Cleric/Wizard | Cloth Boots | 15 | 10x Tattered Cloth, 1x Resilient Thread |
+| Cleric/Wizard | Woven Boots | 35 | 15x Sturdy Cloth, 2x Sturdy Scraps, 5x Resilient Thread |
+| Cleric/Wizard | Silk Boots | 55 | 20x Fine Cloth, 10x Resilient Thread |
 
 You can enhance all of these items and monk gloves (weapon).  
-Higher‑level crafts require **radiant thread**, purchasable from the tailor under Misc.
+Higher‑level crafts require **Resilient Thread**, purchasable from the tailor under Misc.
 
 Again here, the scraps received from weaving can be used to enhance throwaway gear for additional experience.
 
