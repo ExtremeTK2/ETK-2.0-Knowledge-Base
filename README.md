@@ -1065,9 +1065,9 @@ This section addresses remaining things players may want to know.
 ---
 
 ## 5.1 Bugs & Suggestions
-It is best to report bugs and make suggestions in the Discord forum threads.
+It is best to report bugs and make suggestions in either the Discord forum threads or the in-game 'b' Bulletin.
 
-When reporting bugs, it helps greatly to replicate and document the steps required to reproduce the issue.  
+When reporting bugs, it helps greatly to replicate and document every step required to reproduce the issue.  
 Some bugs are tricky and require more testing, so reporting difficult or unclear issues is still helpful.
 
 Sometimes simply making something known is enough — others may test it or discuss it further.
@@ -1088,10 +1088,10 @@ This means an idea isn't worthless by default, sometimes it just needs another a
 Answer — Yes.
 
 **Question — Can we sell gear dropped by monsters anywhere?**  
-Answer — No.
+Answer — No, but you can extract it for Giun.
 
 **Question — What’s the best way to make gold?**  
-Answer — Sell your drops, cut your gems, sell those too.
+Answer — Sell your drops, cut your gems, sell those too. At level 70+ crypt, enemies drop Tainted Giun, which can be sold for 300c each at the Potion shop.
 
 **Question — How do I send a message in the game?**  
 Answer — `'` is the default hotkey and can be changed to Enter in keybind settings.
@@ -1103,8 +1103,8 @@ Answer — Yes, but testers who participate heavily will be rewarded going into 
 Answer — Default hotkey **C** to open character panel, then double‑click the gear.
 
 **Question — How do we respec/reset stats?**  
-Answer — Messenger NPC. Follow the NPC’s instructions:  
-Start respec → say **next** in chat → allocate 3 points → repeat until your current level.
+Answer — Messenger NPC. Select Reallocate (XXX points back).  
+You will maintain your current level, but lose your spells. Once you redistribute your points, go relearn the necessary spells.
 
 **Question — When do minigames happen?**  
 Answer — When a GM opens them.
@@ -1118,7 +1118,9 @@ Paintball, Elixir, Sumo, Pillowfight, Deathball, and Carnage.
 Within these games you can use:
 
 - `/a message` or `/arena message` — global chat to everyone at the event  
-- `/t message` or `/team message` — chat only visible to your team  
+- `/t message` or `/team message` — chat only visible to your team
+
+Experience rewards are based on the beginning 'tnl' of your current level.
 
 ---
 
@@ -1137,6 +1139,9 @@ Ammo pickups appear in the center of the map.
 
 Spectator mode activates automatically when you die, letting you follow teammates.
 
+Rewards:  
+Winning team (10%), Losing team (5%).
+
 ---
 
 ### Elixir
@@ -1153,6 +1158,9 @@ The objective itself, is to capture the flag on the opposite corner, and **retur
 
 No extra mechanics — it is a straightforward elixir war.
 
+Rewards:  
+Winning team (10%), Losing team (5%).
+
 ---
 
 ### Sumo
@@ -1165,7 +1173,11 @@ Buff pickups include:
 - **Boots** — Dash when you swing  
 - **Spear** — Hit 2 tiles ahead  
 - **Gloves** — Push 2 tiles 
-- **Scythe** — Flank  
+- **Scythe** — Flank
+
+Rewards:  
+Winning team (10%), Losing team (5%).
+
 ---
 
 ### Pillowfight
@@ -1184,10 +1196,16 @@ Rewards (approximate):
 ### Deathball
 PvP soccer minigame where the objective is to push the ball into the correct goal.
 
+Rewards:  
+Winning team (10%) & 50k gold, Losing team (5%). 
+
 ---
 
 ### Carnage
 Classic team PvP.
+
+Rewards:  
+Winning team (20%), Losing team (10%).
 
 ---
 
@@ -1198,8 +1216,8 @@ Classic team PvP.
 
 | Room        | Level | Monsters              |
 | :---------- | :---- | :-------------------- |
-| Room 1      | 1     | Rat                   |
-| Rooms 2–3   | 5     | Rat                   |
+| Room 1      | 1     | Mice, Rat             |
+| Rooms 2–3   | 5     | Mice, Rat             |
 | Rooms 4–5   | 10    | Skeleton              |
 | Rooms 6–7   | 15    | Cursed Skeleton       |
 | Rooms 8–9   | 20    | Resilient Skeleton    |
