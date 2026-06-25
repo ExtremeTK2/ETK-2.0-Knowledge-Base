@@ -175,7 +175,7 @@ See **[5.4 Cave Chart](#54-cave-chart)** for full cave details.
 | **Enchanter** | Enchant gear for additional stats or extract Giun from unneeded gear. |
 | **Library** | Home of the Librarian and you can find Seul-Ki here. |
 | **Manor** | Here you will find Yoo-Ri, Tae-Sung, Beom-Seok, and Eun-Ae throughout differet rooms. |
-| **Carpenter** | Currently not available/empty building. |
+| **Carpenter** | For Milling and enhancing Shields, Bows, Staves, & Wands. |
 | **Races** | Horse races for gambling up to 10k each rach. |
 
 </details>
