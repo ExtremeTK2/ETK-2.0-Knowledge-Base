@@ -663,27 +663,21 @@ Monks use gloves to fight with their fists. They function primarily as tank, hea
 
 ### 2.5.2 Building Monk
 Levels 1–35:  
-Full fire build is ideal. Damage procs alone wipe everything up to Insect Cave.
+Searing build is ideal. Damage procs alone wipe everything up to Insect Cave.
+Radiant and Tidal build are for groups, and not really helpful when solo hunting.
 
 Levels 35+:  
-Damage falls off badly and survival becomes difficult.  
-Time to group with a wizard, guardian, or ranger using a **light monk** build.
-
-Light monk = punch your spirit near group members(set spirit to defensive or passive mode).<br>
-Punching does the majority of the healing every 3 hits, spirit uses its own heals automatically in tandem.<br>
-Not as strong as cleric, but extremely easy and effective.
-
-Light monk + a DPS partner is your best long‑term option.
+If solo hunting, it's still preferred.
+Time to group with a wizard, guardian, or ranger using a Radiant or Tidal build.
 
 ---
 
 ### 2.5.3 Monk Build Purposes
-**Light** — Designed to heal and shield allies.  
-**Water** — Designed to buff allies with +20% damage and sustain itself.  
-**Fire** — Designed to deal damage.
+**Radiant** — Designed to heal and shield allies.  
+**Tidal** — Designed to taunt ads and take damage, allowing teammates to deal damage.  
+**Searing** — Designed to deal massive ammounts of damage.
 
-By level 60, hybrid builds become possible (e.g., Monsoon Aura + Radiant Chakra II).  
-This slightly reduces healing but allows switching between damage buff and healing.
+Hybrid builds are not really possible, given that each set of spells can only be cast while in a particular stance.  
 
 By level 80, you can take a full light build, Monsoon, and most of the fire kit by building past Transcendence Str requirements.
 
