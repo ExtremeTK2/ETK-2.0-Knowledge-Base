@@ -618,7 +618,7 @@ Monks use gloves to fight with their fists. They function primarily as tank, hea
 | **Tidal Sweep** | C30 | Toggle: your strikes hit all 8 surrounding tiles, spreading threat across a pack. |
 | **Challenging Roar** | S18 C35 | An AoE taunt that forces nearby enemies to attack you. |
 | **Riptide Guard I-IV** | I: C40<br>II: C80<br>III: C115<br>IV: C150 | Pour your Spirit into a damage-absorbing shield that scales with CON and the Spirit spent. |
-| **Crashing Wave I-IV** | I: C35 W18<br>II: C75 W25<br>III: C115 W30<br>IV: W35 C150 | Crash a wave over nearby foes, damaging them and healing yourself, then brace against damage. |
+| **Crashing Wave I-IV** | I: C35 W18<br>II: C75 W25<br>III: C115 W30<br>IV: C150 W35 | Crash a wave over nearby foes, damaging them and healing yourself, then brace against damage. |
 | **Undertow** | S25 C60 | Root nearby enemies in place. |
 | **Last Bastion** | C115 | Bolster your maximum health for a short time. |
 
@@ -639,16 +639,16 @@ Monks use gloves to fight with their fists. They function primarily as tank, hea
 **Searing Stance Exclusive**
 | Spell Name | Requirements | Explanation |
 | :--- | :--- | :--- |
-| **Swift Strike** | req unknown | A fast strike that builds Chakra. |
-| **Iron Fist** | req unknown | A heavier punch that builds Chakra. |
-| **Mending Breath** | req unknown | A quick self-heal that scales with CON and DEX. |
-| **Whirling Strikes** | req unknown | Toggle: your strikes also hit the tiles behind you. |
-| **Crushing Blow** | req unknown | Spend all Chakra in one devastating strike and briefly empower your swings. |
-| **Inferno Palm** | req unknown | Spend all Chakra in an explosive blast that leaves nearby enemies burning. |
-| **Supernova** | req unknown | Spend all Chakra in an expanding blast; the more Chakra spend, the larger the explosion. |
-| **Searing Fervor** | req unknown | Spend Chakra to empower your swings for a duration. Refiring extends it and keeps the stronger bonus. |
-| **Searing Tempo** | req unknown | Toggle: grant your whole group bonus damage. |
-| **Eruption** | req unknown | Erupt in an 8-directional explosion, scorching everything around you. |
+| **Swift Strike I-IV** | I: S9 D14<br>II: S30 D55<br>III: S55 D105<br>IV: S80 D155 | A fast strike that builds Chakra. |
+| **Iron Fist I-IV** | I: S24 D11<br>II: S70 D30<br>III: S120 D50<br>IV: S160 D70 | A heavier punch that builds Chakra. |
+| **Mending Breath I-IV** | I: D15 C10<br>II: D55 C50<br>III: D90 C90<br>IV: D135 C130 | A quick self-heal that scales with CON and DEX. |
+| **Whirling Strikes** | S30 D30 | Toggle: your strikes also hit the tiles behind you. |
+| **Crushing Blow I-IV** | I: S50 D40<br>II: S90 D75<br>III: S130 D110<br>IV: S165 D145 | Spend all Chakra in one devastating strike and briefly empower your swings. |
+| **Inferno Palm I-IV** | I: S55 D45<br>II: S95 D80<br>III: S135 D115<br>IV: S170 D150 | Spend all Chakra in an explosive blast that leaves nearby enemies burning. |
+| **Supernova I-IV** | I: S60 D50<br>II: S100 D85<br>III: S140 D120<br>IV: S175 D155 | Spend all Chakra in an expanding blast; the more Chakra spend, the larger the explosion. |
+| **Searing Fervor I-IV** | I: S15 D15<br>II: S60 D55<br>III: S105 D95<br>IV: S150 D140 | Spend Chakra to empower your swings for a duration. Refiring extends it and keeps the stronger bonus. |
+| **Searing Tempo** | S52 D48 | Toggle: grant your whole group bonus damage. |
+| **Eruption I-IV** | I: S105 D60<br>II: S130 D90<br>III: S160 D120<br>IV: S190 D150 | Erupt in an 8-directional explosion, scorching everything around you. |
 
 
 **Universal Monk Spells**
