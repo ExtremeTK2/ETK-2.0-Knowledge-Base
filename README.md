@@ -613,7 +613,7 @@ Monks use gloves to fight with their fists. They function primarily as tank, hea
 **Tidal Stance Exclusive**
 | Spell Name | Requirements | Explanation |
 | :--- | :--- | :--- |
-| **Hammer Fist I-IV** | I: C25 - II: C70 - III: C110 - IV: C150 | A heavy single-target strike; the stance's threat makes it a strong taunt. |
+| **Hammer Fist I-IV** | I: C25<br>II: C70<br>III: C110<br>IV: C150 | A heavy single-target strike; the stance's threat makes it a strong taunt. |
 | **Tidal Mending I-IV** | I: C25 - II: C65 - III: C105 - I: C25 - IV: C150 | The tank's primary self-heal: a fast, spammable heal that scales with CON. |
 | **Tidal Sweep** | C30 | Toggle: your strikes hit all 8 surrounding tiles, spreading threat across a pack. |
 | **Challenging Roar** | S18 C35 | An AoE taunt that forces nearby enemies to attack you. |
