@@ -626,14 +626,14 @@ Monks use gloves to fight with their fists. They function primarily as tank, hea
 **Radiant Stance Exclusive**
 | Spell Name | Requirements | Explanation |
 | :--- | :--- | :--- |
-| **Meditate** | req unknown | Channel to rapidly restore Spirit. Breaks on action. |
-| **Mending Palm** | req unknown | Heal a target over time (higher ranks also add an absorb shield), scaling with INT. |
-| **Healing Palm** | req unknown | A direct heal that scales with INT. |
-| **Purifying Palm** | req unknown | Cleanse harmful effects from a target. |
-| **Spirit Sanctuary** | req unknown | Toggle: reduce your group's damage taken. |
-| **Beacon** | req unknown | Bathe your whole group in healing light over time. |
-| **Radiant Burst** | req unknown | A burst of radiant energy that heals your whole group. |
-| **Sacred Renewal** | req unknown | A massive single-target heal. |
+| **Meditate** | Lvl: 1 | Channel to rapidly restore Spirit. Breaks on action. |
+| **Mending Palm I-IV** | I: I26 W6<br>II: I60 W8<br>III: I100 W11<br>IV: I140 W14 | Heal a target over time (higher ranks also add an absorb shield), scaling with INT. |
+| **Healing Palm I-IV** | I: C11 I42<br>II: C15 I80<br>III: C20 I120<br>IV: C25 I160 | A direct heal that scales with INT. |
+| **Purifying Palm** | I48 W16 | Cleanse harmful effects from a target. |
+| **Spirit Sanctuary** | C20 I55 W35 | Toggle: reduce your group's damage taken. |
+| **Beacon I-IV** | I: I48 W38<br>II: I85 W42<br>III: I125 W46<br>IV: I160 W50 | Bathe your whole group in healing light over time. |
+| **Radiant Burst I-IV** | I: I97 W22<br>II: I125 W28<br>III: I155 W34<br>IV: I185 W40 | A burst of radiant energy that heals your whole group. |
+| **Sacred Renewal I-IV** | I: I149 W26<br>II: I170 W30<br>III: I185 W34<br>IV: I195 W38 | A massive single-target heal. |
 
 
 **Searing Stance Exclusive**
