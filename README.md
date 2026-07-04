@@ -482,38 +482,28 @@ Clerics use staves, daggers, and swords. They are the premier healing class, cap
 | **Invoke** | I6 W17 | Consume HP to fully restore mana. |
 | **Bless** | D19 C6 | Increases target’s hit rate. |
 | **Minor Heal** | I26 D4 C7 | Lowest cleric heal. |
-| **Imbue** | S28 W6 C11 | Converts weapon, reduces healing, increases swing damage, enables Consecrate. |
+| **Imbue I-IV** | I: S28 W6 C11<br>II: S52 D7 W9 C17<br>III: S78 D10 W12 C24<br>IV: S135 D18 W22 C40 | Converts weapon, reduces healing, increases swing damage, enables Consecrate. |
 | **Sanctify** | I7 D4 W33 C9 | PvP target sanctuary (50% dmg reduction). Ends Sanctuary early in PvE. |
 | **Lightbomb** | I25 D3 W25 C9 | Weak 5‑tile AoE. |
 | **Sanctuary** | I9 D6 W38 C9 | Party‑wide 50% damage reduction aura; lasts 5 minutes; does not work in PvP. |
 | **Seal Wounds** | I42 D7 W6 C11 | Second cleric heal; upgrade over Minor Heal. |
 | **Purify** | I48 D4 W16 C11 | Removes scourge/curse from target. |
-| **Imbue II** | S52 D7 W9 C17 | Stronger Imbue. |
 | **Death Ward** | I12 D11 W53 C18 | Buff enabling Saving Grace to trigger on death. |
-| **Consecrate** | S33 I11 W37 C16 | Diamond AoE dealing damage and healing affected tiles. |
+| **Consecrate I-IV** | I: S33 I11 W37 C16<br>II: S53 I16 D6 W57 C23<br>III: S75 I20 D8 W88 C30<br>IV: S102 D10 C40 I24 W128 | Diamond AoE dealing damage and healing affected tiles. |
 | **Inspire** | S4 I14 D6 W63 C11 | Transfers your mana to the target. |
 | **Saving Grace** | I62 D8 W16 C14 | Prevents death if cast within seconds of target dying while Death Ward is active. |
-| **Holy Flame** | S58 I9 D11 W4 C22 | Targetable spell dealing AoE damage in a square for 4 seconds. |
+| **Holy Flame I-III** | I: S58 I9 D11 W4 C22<br>II: S95 I14 D14 W6 C30<br>III: S140 I18 D18 W8 C40 | Targetable spell dealing AoE damage in a square for 4 seconds. |
 | **Vital Infusion** | I71 D9 W11 C17 | Third cleric heal; upgrade over Seal Wounds. |
 | **Bind** | S14 I16 W28 C37 | Roots target briefly. |
 | **Dispel** | I27 D9 W78 C21 | Removes most buffs from a target. |
 | **Light Shield** | I25 W35 C26 | Shield that absorbs damage until broken. |
 | **Silence** | I92 D11 W23 C14 | Prevents target from casting spells briefly. |
 | **Divine Mending** | I97 D13 W16 C24 | Fourth cleric heal; upgrade over Vital Infusion. |
-| **Consecrate II** | S53 I16 D6 W57 C23 | Upgrade of Consecrate; +4 dmg per 1 Str and +4 healing per 1 Int. |
 | **Sacred Healing** | I119 D14 W22 C31 | Fifth cleric heal; upgrade over Divine Mending. |
-| **Holy Inferno** | I118 D11 W67 C19 | Stronger Holy Fire; does not stack; can be used on two targets. |
+| **Holy Inferno I-III** | I: I118 D11 W67 C19<br>II:  I150 D14 W80 C26<br>III: I185 D18 W95 C34 | Stronger Holy Fire; does not stack; can be used on two targets. |
 | **Radiant Heal** | I149 D17 W26 C35 | Highest cleric heal. |
 | **Restore** | S6 I173 D19 W31 C41 | Heal target based on your mana. |
 | **Harden Body** | S108 I18 D14 W16 C31 | Prevent all damage while active; fizzle chance reduced by Int. |
-| **Holy Inferno II** | D14 C26 I150 W80 | Stronger version of Holy Fire |
-| **Holy Inferno III** | D18 C34 I185 W95 | Strongest version of Holy Fire |
-| **Consecrate III** | S75 I20 D8 W88 C30 | Upgrade of Consecrate |
-| **Consecrate IV** | S102 D10 C40 I24 W128 | Highest Upgrade of Consecrate |
-| **Holy Flame II** | S95 D14 V30 I14 W6 | Upgraded Targetable spell dealing AoE damage in a square. |
-| **Holy Flame III** | S140 I18 D18 W8 C40 | Strongest Targetable spell dealing AoE damage in a square. |
-| **Imbue III** | S78 D10 C24 W12 | Even Stronger Imbue. |
-| **Imbue IV** | S135 D18 W22 C40 | Strongest Imbue. |
 | **Celestial Mending** | D20 C40 I165 W30 | Stronger heal than Radiant Heal. |
 | **Empyrean Grace** | D24 C46 I190 W36 | Stronger heal than Celestial Mending. |
 
