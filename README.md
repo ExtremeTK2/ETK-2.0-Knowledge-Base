@@ -16,6 +16,7 @@ It covers classes, crafting, minigames, group strategy, and progression.<br>
     * [1.3 Stats](#13-stats)
     * [1.4 Places of Interest](#14-places-of-interest)
     * [1.5 Additional Features](#15-additional-features)
+    * [1.6 Clans](#16-clans)
 * [2.0 Classes, Builds, and Strategies](#20-classes-builds-and-strategies)
     * [2.1 Guardian](#21-guardian)
     * [2.2 Ranger](#22-ranger)
@@ -197,6 +198,18 @@ See **[5.4 Cave Chart](#54-cave-chart)** for full cave details.
     * **Guardians:** Rage (instead of mana)
 
 </details>
+
+## 1.6 Clans
+Clans are here! Visit the Clan Registrar in the Library.
+
+Founding a clan: file a petition for 1,000,000 gold (refunded if denied or withdrawn), gather 10 total signatures from level 50+ players without a clan, and a Game Master approves the founding.
+
+Clan halls: every new clan gets its own clan hall map. The leader and appointed officers can redecorate it live using the in-client map editor - tiles, objects, and walls, with the exit always protected.
+
+Clan management at the Registrar: invite members (invitees accept at the Registrar), kick, leave, appoint/demote officers, custom member titles, and leadership transfer.
+
+Ranks: Leader, Officer (can edit the hall, invite and kick), and Member.
+
 
 
 ## 2.0 Classes, Builds, and Strategies
