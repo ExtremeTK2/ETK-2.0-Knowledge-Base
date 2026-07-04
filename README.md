@@ -506,6 +506,17 @@ Clerics use staves, daggers, and swords. They are the premier healing class, cap
 | **Radiant Heal** | I149 D17 W26 C35 | Highest cleric heal. |
 | **Restore** | S6 I173 D19 W31 C41 | Heal target based on your mana. |
 | **Harden Body** | S108 I18 D14 W16 C31 | Prevent all damage while active; fizzle chance reduced by Int. |
+| **Holy Inferno II** | D14 C26 I150 W80 | Stronger version of Holy Fire |
+| **Holy Inferno III** | D18 C34 I185 W95 | Strongest version of Holy Fire |
+| **Consecrate III** | S75 I20 D8 W88 C30 | Upgrade of Consecrate |
+| **Consecrate IV** | S102 D10 C40 I24 W128 | Highest Upgrade of Consecrate |
+| **Holy Flame II** | S95 D14 V30 I14 W6 | Upgraded Targetable spell dealing AoE damage in a square. |
+| **Holy Flame III** | S140 I18 D18 W8 C40 | Strongest Targetable spell dealing AoE damage in a square. |
+| **Imbue III** | S78 D10 C24 W12 | Even Stronger Imbue. |
+| **Imbue IV** | S135 D18 W22 C40 | Strongest Imbue. |
+| **Celestial Mending** | D20 C40 I165 W30 | Stronger heal than Radiant Heal. |
+| **Empyrean Grace** | D24 C46 I190 W36 | Stronger heal than Celestial Mending. |
+
 
 </details>
 
