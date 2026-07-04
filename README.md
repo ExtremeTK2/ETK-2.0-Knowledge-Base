@@ -576,23 +576,21 @@ Radiant is more efficient **if** you are consistently healing its full value.
 ### 2.4.3 Cleric Build Purposes
 Cleric is very cookie‑cutter, so here are the main builds:
 
-1. **Healer build** — Primarily Int/Wis/Con, some Dex.  
-   Heals, buffs, utility.
+1. **Tank Build** — Focuses on Con
+   High vita build made to take high damage.
 
-2. **DPS build** — Primarily Str/Wis/Con, Some Dex/Int.  
+2. **DPS build** — Focuses on Str/Dex.  
    Used for soloing or groups lacking DPS.  
-   Imbue, Consecrate, Holy Flame.
 
-3. **PvP build** — Healer but more Con/Wis.  
-   Heals, buffs, utility, Holy Inferno/Holy Fire, Dispel.<br>
-   Also focuses on extra HP (more Con).
+3. **Healer build** — Focuses on Int/Wis.  
+   Heals, buffs, group heal, heal over time.<br>
 
 ---
 ## 2.5 Monk
-Monks use gloves to fight with their fists. They function primarily as support and healers, offering group benefits unmatched by any other class.
+Monks use gloves to fight with their fists. They function primarily as tank, healer, or dps.
 
 * **Role:** Exceptional support with strong healing and powerful group utility.
-* **Solo Performance:** Healing is sufficient for most content, but damage output is currently the 4th weakest overall.
+* **Solo Performance:** Depends on build. Healing is highly efficient for most content, but damage output is currently the 4th weakest overall. 
 * **Maintenance:** Low upkeep and simple rotations, with most value coming from buffs and support tools.
 * **Scaling:** Benefits from Wis, supportive gear, and utility‑focused stat choices.
 * **Notes:** Fire (DPS) builds fall off quickly; outside early levels, consider them non‑viable for now.
@@ -604,61 +602,61 @@ Monks use gloves to fight with their fists. They function primarily as support a
 <details>
 <summary><b>Click to expand Monk Spells</b></summary>
 
+**Stances**
 | Spell Name | Requirements | Explanation |
 | :--- | :--- | :--- |
-| **High Kick** | D14 C5 | Generates chakra and deals minor damage. |
-| **Chakra Punch** | C21 | Spends chakra to deal minor damage. |
-| **Chakra Strikes** | S18 C8 | Spends chakra to buff swing damage for 60 seconds. |
-| **Chakra Heal** | C36 W9 I6 | Spends chakra to self‑heal. |
-| **Flaming Fist** | S9 D24 C11 | Generates chakra and deals minor damage. |
-| **Meditate** | Free | Regenerates spirit over time if you don’t move or take damage. |
-| **Summon Fire Spirit** | S16 C9 I4 | Summons fire spirit; unlocks square AoE proc every 3 hits. |
+| **Tidal Stance** | C14 | Enter the Tidal (Tank) stance: -25% damage taken, all attacks generate 5x threat, -15% damage dealt. |
+| **Radiant Stance** | I12 W8 | Enter the Radiant (Heal) stance: +75% healing done and passive Spirit regen, but -25% damage dealt. |
+| **Searing Stance** | S10 D10 | Enter the Searing (DPS) stance: +25% damage dealt, but +10% damage taken. |
 
-**Fire Spirit Exclusive**
-| Spell Name | Requirements | Explanation |
-| :--- | :--- | :--- |
-| **Searing Combo** | S35 D8 C15 | 3 hits + burn DoT per hit. |
-| **Inferno Chakra** | S52 D13 C21 I7 | Square AoE. |
-| **Searing Combo II** | S54 D11 C23 W5 | 4 hits, stronger burn, final hit splashes; upgrade of Searing Combo. |
-| **Wildfire Stance** | S69 D11 C26 W5 | Passive proc every 2 hits instead of 3. |
-| **Immolation Link** | S86 D14 C37 I9 | Damage shared between monk and ally; attackers suffer burn. |
-| **Inferno Chakra II** | S98 D15 C42 W7 I11 | Larger radius; burning ground for 4s; upgrade of Inferno Chakra. |
-| **Eruption** | S113 D16 C49 W8 I12 | Massive AoE; transforms ally into fire pillar for 8s. |
 
-**Water Spirit Exclusive**
+**Tidal Stance Exclusive**
 | Spell Name | Requirements | Explanation |
 | :--- | :--- | :--- |
-| **Summon Water Spirit** | D18 C11 | Summons water spirit; unlocks self‑heal proc every 3 hits. |
-| **Flowing Strike** | D34 C16 W7 | 2 hits + small heal per hit; 10s aethers. |
-| **Tidal Chakra** | D42 C30 W13 I8 | 4‑way attack; damages enemies; heals allies on adjacent tiles; 25s aethers. |
-| **Flowing Strike II** | D54 C24 W13 | 3 hits; splashes to nearby ally; upgrade of Flowing Strike. |
-| **Monsoon Aura** | D57 C25 W15 | +20% damage aura for entire group. |
-| **Riptide Guard** | D47 C53 W18 I11 | Absorbs big hit on group member; triggers group heal; 45s aethers. |
-| **Tidal Chakra II** | D63 C42 W19 I13 | Wider AoE; slows enemies; upgrade of Tidal Chakra; 25s aethers. |
-| **Deluge** | S9 D75 C58 W21 I14 | Large AoE heal and damage; 120s aethers. |
+| **Hammer Fist I-IV** | I: C25 - II: C70 - III: C110 - IV: C150 | A heavy single-target strike; the stance's threat makes it a strong taunt. |
+| **Tidal Mending I-IV** | I: C25 - II: C65 - III: C105 - I: C25 - IV: C150 | The tank's primary self-heal: a fast, spammable heal that scales with CON. |
+| **Tidal Sweep** | C30 | Toggle: your strikes hit all 8 surrounding tiles, spreading threat across a pack. |
+| **Challenging Roar** | S18 C35 | An AoE taunt that forces nearby enemies to attack you. |
+| **Riptide Guard I-IV** | I: C40 - II: C80 - III: C115 - IV: C150 | Pour your Spirit into a damage-absorbing shield that scales with CON and the Spirit spent. |
+| **Crashing Wave I-IV** | I: C35 W18 - II: C75 W25 - III: C115 W30 - IV: W35 C150 | Crash a wave over nearby foes, damaging them and healing yourself, then brace against damage. |
+| **Undertow** | S25 C60 | Root nearby enemies in place. |
+| **Last Bastion** | C115 | Bolster your maximum health for a short time. |
 
-**Light Spirit Exclusive**
-| Spell Name | Requirements | Explanation |
-| :--- | :--- | :--- |
-| **Summon Light Spirit** | I19 C7 W5 | Summons light spirit; heals lowest HP group member every 3 hits. |
-| **Mending Palm** | D5 C13 W9 I37 | Heals lowest HP group member; 8s aethers. |
-| **Radiant Chakra** | D8 C18 W14 I57 | Group burst heal + short HoT; 25s aethers. |
-| **Mending Palm II** | D9 C12 W16 I67 | Stronger healing; now shields; upgrade of Mending Palm; 8s aethers. |
-| **Beacon** | D11 C23 W21 I75 | If 3+ party members below 75%, passive 3‑punch heal split between all. |
-| **Sacrifice** | D13 C42 W24 I93 | Sacrifices spirit to prevent a group member from dying. |
-| **Radiant Chakra II** | D14 C32 W27 I107 | Large party heal; cleanses 1 debuff; replaces Radiant Chakra; 25s aethers. |
-| **Resurrection** | D16 C47 W31 I117 | Revives dead party member at 50% HP; 180s aethers. |
 
-**General Monk Spells**
+**Radiant Stance Exclusive**
 | Spell Name | Requirements | Explanation |
 | :--- | :--- | :--- |
-| **Chakra Burst** | C21 | Fire: damage; Water: damage + self‑heal; Light: HoT on self. |
-| **Inner Peace** | C16 W32 I7 | Spirit regeneration; does not break from attacking/moving. |
-| **Spirit Swap** | D28 C12 W24 | Swap places with your spirit. |
-| **Torpor** | D8 C17 W48 | Sleeps target until damaged or 10s pass; 30s aethers. |
-| **Enlightenment** | D11 C24 W62 I13 | Doubles spirit and chakra generation; 30s uptime; 90s aethers. |
-| **Transcendence** | S29 D29 C29 W29 I29 | Passive +20% to self/spirit damage and healing. |
-| **Spirit Walk** | D20 W20 C20 | Invisibility + movement speed buff for up to 6 tiles from body. |
+| **Meditate** | req unknown | Channel to rapidly restore Spirit. Breaks on action. |
+| **Mending Palm** | req unknown | Heal a target over time (higher ranks also add an absorb shield), scaling with INT. |
+| **Healing Palm** | req unknown | A direct heal that scales with INT. |
+| **Purifying Palm** | req unknown | Cleanse harmful effects from a target. |
+| **Spirit Sanctuary** | req unknown | Toggle: reduce your group's damage taken. |
+| **Beacon** | req unknown | Bathe your whole group in healing light over time. |
+| **Radiant Burst** | req unknown | A burst of radiant energy that heals your whole group. |
+| **Sacred Renewal** | req unknown | A massive single-target heal. |
+
+
+**Searing Stance Exclusive**
+| Spell Name | Requirements | Explanation |
+| :--- | :--- | :--- |
+| **Swift Strike** | req unknown | A fast strike that builds Chakra. |
+| **Iron Fist** | req unknown | A heavier punch that builds Chakra. |
+| **Mending Breath** | req unknown | A quick self-heal that scales with CON and DEX. |
+| **Whirling Strikes** | req unknown | Toggle: your strikes also hit the tiles behind you. |
+| **Crushing Blow** | req unknown | Spend all Chakra in one devastating strike and briefly empower your swings. |
+| **Inferno Palm** | req unknown | Spend all Chakra in an explosive blast that leaves nearby enemies burning. |
+| **Supernova** | req unknown | Spend all Chakra in an expanding blast; the more Chakra spend, the larger the explosion. |
+| **Searing Fervor** | req unknown | Spend Chakra to empower your swings for a duration. Refiring extends it and keeps the stronger bonus. |
+| **Searing Tempo** | req unknown | Toggle: grant your whole group bonus damage. |
+| **Eruption** | req unknown | Erupt in an 8-directional explosion, scorching everything around you. |
+
+
+**Universal Monk Spells**
+| Spell Name | Requirements | Explanation |
+| :--- | :--- | :--- |
+| **Inner Peace** | C16 W20 | Channel inner calm to regenerate Spirit over time without breaking on action. |
+| **Jab** | D6 | A quick basic strike. |
+| **Spirit Walk** | D20 C20 | Your spirit leaves your body, turning invisible. Your body proxies damage. Recast to end. |
 
 </details>
 
