@@ -308,38 +308,35 @@ Rangers use bows or daggers and rely on high AoE damage, mobility, and smart pos
 
 | Spell Name | Requirements | Explanation |
 | :--- | :--- | :--- |
-| **Envenom Weapon** | D3 | 5‑minute self‑buff applying poison on swings, shots, and volley. |
+| **Envenom Weapon I-V** | I: D3<br>II: I18 D27<br>III: I35 D38<br>IV: I52 D58<br>V: I95 D170 | 5‑minute self‑buff applying poison on swings, shots, and volley. |
 | **Throw Trap** | I5 D7 | Next trap can be thrown to a selected tile within range. |
 | **Ambush** | S19 D55 | Consumes 5 endurance to move to the opposite side of the target you're facing. |
 | **Frost Trap** | I10 D5 | Trap that slows on its tile and the 4 adjacent tiles. |
-| **Backstab** | S35 | Small damage when striking a target from behind. |
+| **Backstab I-III** | I: S35<br>II: S90 D40<br>III: S140 D60 | Damage to enemy when striking from behind. Scales with STR. |
 | **Soothe** | W10 C12 | Weak self‑heal. |
-| **Fan of Knives** | S38 | AoE that grows with connected targets; spreads poison for melee builds. |
+| **Fan of Knives I-III** | I: S38<br>II: S85 D35<br>III: S135 D55 | AoE that grows with connected targets; spreads poison for melee builds. |
 | **Piercing Shot** | S29 I8 D32 | Charge 5s to fire a line‑piercing shot; activated by bow attack. |
 | **Shatter Arrow** | I18 D18 | Arrows hit 4 targets instead of 1; costs 3 endurance per shot. |
 | **Damage Trap** | S15 I15 C8 | Trap dealing Str‑scaled damage to the activator. |
-| **Envenom Weapon II** | I18 D27 | Stronger poison buff. |
-| **Volley I** | I25 D78 | 3x3 AoE scaling with Dex/Int/weapon damage. |
+| **Volley I-III** | I: I25 D78<br>II: I42 D92 C18<br>III: I55 D130 C25 | 3x3 AoE scaling with Dex/Int/weapon damage. |
 | **Invisibility** | W22 | Invisible to players; prevents some damage sources from working on enemies. |
 | **Poison Trap** | I42 D15 | Trap that poisons all targets in all directions up to 4 tiles. |
 | **Fox's Cunning** | (S12 OR D12) + C12 | Rage multiplying swing, volley, and poison damage. |
+| **Wolf's Tenacity** | (S30 OR D30) + C22 | Rage upgrade from Fox's Cunning. |
+| **Tiger's Fury** | (S48 OR D48) + C28 | 3rd rage; upgrade over Wolf's Tenacity. |
+| **Bear's Rage** | (S66 OR D66) + C35 | 4th rage; upgrade over Tiger's Fury. |
+| **Dragon's Wrath** | (S105 OR D105) + C42 | Strongest rage. |
 | **Mend** | W40 C22 | Most resource‑efficient heal; costs 5 endurance; stacking HoT. |
-| **Eviscerate (Vita attack)** | S55 C18 | Very high scaling attack costing 50% of Vita. |
+| **Eviscerate I-II** | I: S55 C18<br>II: S | Very high scaling attack costing 50% of Vita. |
 | **Dash** | S42 C18 | 9‑tile leap. |
 | **Curse Trap** | I42 D15 W22 | Trap causing the target to briefly take increased damage. |
 | **Sleep Trap** | I40 D15 W18 | Trap that puts the target to sleep. |
-| **Envenom Weapon III** | I35 D38 | Stronger version of Envenom Weapon II. |
-| **Melee Specialization** | S45 D25 C18 | Ramping melee damage per swing (does not work with bows). |
-| **Wolf's Tenacity** | (S30 OR D30) + C22 | Rage upgrade from Fox's Cunning. |
-| **Charged Shot I** | I28 D68 C18 | Charge up to 5s; affects a square around the target; activated by swing/shot. |
+| **Melee Specialization I-II** | I: S45 D25 C18<br>II: S100 D50 C30 | Ramping melee damage per swing (does not work with bows). |
+| **Charged Shot I-III** | I: I28 D68 C18<br>II: I42 D92 C25<br>III: I60 D150 C35 | Charge up to 5s; affects a square around the target; activated by swing/shot. |
 | **Rejuvenate** | I22 W35 C35 | Strong heal; costs 10 endurance; powerful HoT. |
-| **Envenom Weapon IV** | I52 D58 | Strongest Envenom Weapon version. |
-| **Tiger's Fury** | (S48 OR D48) + C28 | 3rd rage; upgrade over Wolf's Tenacity. |
-| **Revitalize** | W92 C52 | Strongest heal; currently not worth the stat investment. |
-| **Bear's Rage** | (S66 OR D66) + C35 | 4th rage; upgrade over Tiger's Fury. |
-| **Volley II** | I42 D92 C18 | Strongest ranger spell; 5x5 AoE; upgrade over Volley I. |
-| **Charged Shot II** | I42 D92 C25 | Stronger version of Charged Shot I. |
-| **Dragon's Wrath** | (S105 OR D105) + C42 | Strongest rage. |
+| **Revitalize** | W92 C52 | Stronger heal. costs 10 endurance; powerful HoT. |
+| **Recuperate** | W120 C60 | Strongest heal. costs 12 endurance; powerful HoT. |
+
 
 Rages require str+con **OR** dex+con, not both.
 </details>
