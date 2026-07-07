@@ -404,8 +404,8 @@ They are also the squishiest class by a wide margin and require strong awareness
 | **Mana Infuse I-IV** | I: S15 I15 W8<br>II: S45 I60 W12<br>III: S75 I110 W16<br>IV: S105 I160 W20 | Drains mana per swing to deal magic damage. |
 | **Arc** | I30 W15 | Second targetable zap. |
 | **Ice Wall** | I25 D20 W12 | Select up to 4 tiles to make impassable briefly. |
-| **Frozen Armor** | I15 D18 C22 | Reflects damage back at attackers. |
-| **Lightning Shield** | I22 W20 C20 | Box AoE around self, dealing constant “circle” damage. |
+| **Frozen Armor I-II** | I: I15 D18 C22<br>II: D60 C45 I40 | Reflects damage back at attackers. |
+| **Lightning Shield I-II** | I: I22 W20 C20<br>II: I85 W55 C35 | Box AoE around self, dealing constant “circle” damage. |
 | **Doze** | I25 W28 | Puts target to sleep briefly; works in PvP. |
 | **Mana Ingress** | S25 I22 D10 W15 | Swinging restores mana instead of dealing magic damage. |
 | **Enchanted Flank** | S28 I25 D15 | Attacks also hit enemies on your sides. |
@@ -413,18 +413,21 @@ They are also the squishiest class by a wide margin and require strong awareness
 | **Blink** | I45 D18 W20 | Teleport to a selected tile; requires clear path. |
 | **Firewall**<br>**Greater Firewall** | I45 D18 W20<br>I88 D60 W38 | Select up to 9 tiles to place damaging fire walls.<br>Upgrade of Firewall; 13 tiles; higher scaling; separate cooldown. |
 | **Arcane Recovery** | I25 W38 C30 | Upgrade of Mana Mend with higher healing. |
-| **Conduit I-II** | I: I55 W32<br>II: I78 W48 | Auto‑zaps targets within 8 tiles every few seconds. |
-| **Energy Shield** | I32 W22 C38 | Take damage as mana instead of HP. |
+| **Conduit I-III** | I: I55 W32<br>II: I78 W48<br>III: I120 W65 | Auto‑zaps targets within 8 tiles every few seconds. |
+| **Energy Shield I-II** | I: I32 W22 C38<br>II: C60 I70 W45 | Take damage as mana instead of HP. |
 | **Detonate** | S38 I45 W15 | 4‑direction attack based on Mana Infuse hit stacks. |
 | **Thunderbolt** | I78 W42 | Fourth targetable zap. |
-| **Living Bomb** | I72 D40 W28 | Target explodes after a delay; spreads if target dies. |
+| **Living Bomb I-II** | I: I72 D40 W28<br>II: D70 I120 W50 | Target explodes after a delay; spreads if target dies. |
 | **Deep Freeze** | I62 D45 W38 | Targetable spell that shatters damage in a square around the target when it takes damage. |
 | **Siphon Vitality** | I35 W55 C45 | Third wizard self‑heal. |
 | **Unbound Infuse I-II** | I: S55 I48 W32<br>II: S72 I65 W45 | I: Party aura sharing 10% of Mana Infuse damage.<br>II: Upgrade of Unbound Infuse; shares 15% of Mana Infuse. |
-| **Tempest Lance** | I105 W58 | Strongest targetable zap. |
+| **Tempest Lance** | I105 W58 | Stronger targetable zap. Replaces Thunderbolt. |
 | **Thunderstorm** | I120 W55 C28 | Large AoE; hits up to 8 targets every 2s for 20s; damage escalates. |
 | **Enchanted Bulwark** | S110 I35 C55 | Self‑buff reducing incoming damage by 15%. |
 | **Gust** | I75 D95 W55 | Targetable AoE dealing damage in a box around the target for 7 seconds. |
+| **Storm Lance** | I145 W75 | Stronger targetable zap with heavier crit chance and crit damage. Replaces Tempest Lance. |
+| **Maelstrom** | I190 W95 | Strongest targetable zap with heavier crit chance and crit damage. Replaces Storm Lance. |
+
 
 </details>
 
