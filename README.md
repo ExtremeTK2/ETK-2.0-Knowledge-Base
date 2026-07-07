@@ -276,18 +276,13 @@ Guardians use swords and are currently the highest group-oriented DPS in the gam
 
 </details>
 
-### 2.1.3 Building Guardian
-* **Priorities:** Focus on reaching higher rages and heals; **Defensive Stance** is generally the safest bet.
-* **Level 1-40:** Offensive stance is usable solo but can be sketchy.
-* **Level 50+:** Tank builds are ideal; utilize **Vengeance** even in groups.
-* **Level 70+:** Berserker builds become viable with a healer, providing unparalleled DPS.
-* **Endgame:** After Cataclysm and Unbreakable, solo strength is dictated primarily by gear.
-
-### 2.1.4 Guardian Build Purposes
-* **Stances:** Defensive is required for soloing of-level content, tanking instances, and bosses. Offensive offers the highest DPS but is only recommended for soloing content you have out-leveled by 30+ levels.
-* **Efficiency:** While high DPS, guardians are among the worst DPS in the game without a healer. They offer no specific benefit over other classes for solo play.
+### 2.1.3 Guardian Builds
+* **Priorities** Focus on reaching higher rages and heals; **Defensive Stance** is generally the safest bet.
+* **DPS Build (Offensive Stance):** Offensive stance is usable solo but can be sketchy. Offensive offers the high DPS but is only recommended for soloing content you have out-leveled or with a group.
+* **Tank Build (Defensive Stance):** Defensive stance is a bit slower for solo, but much safer and less likely to die. Defensive is required for soloing of-level content, tanking instances, and bosses.
 
    *  **Note: Guardians can interweave vengeance by casting it, taking damage, and changing to offensive stance.**
+
 
 ---
 ## 2.2 Ranger
@@ -361,21 +356,11 @@ It poisons things, then it volleys and poisons things. It keeps doing that.
 
 ---
 
-### 2.2.3 Ranger Build Purposes
-Bow is currently the only fully functional build.  
-Its purpose is massive AoE damage — that’s the core identity.
+### 2.2.3 Ranger Builds
+* **Priorities** Focus on getting Dragon's Wrath, and DPS skills for whichever build you choose.
+* **Archer Build:** Uses Volley and Shatter Arrow. The archer build offers high DPS from a ranged weapon (bow). Combined with Envenom, this a deadly build, but the trade-off is you have to keep moving. You can ambush your way out, but you take high ammounts of damage.
+* **Rogue Build:** Uses Eviscerate, Melee Specialization, & Fan of Knives. I have not personally played this build yet, since it's update on 7/4/26, but will update as I test or receive more info.
 
-Melee and hybrid melee builds have one niche: **PvP**.
-
-PvP is extremely unbalanced right now. Even with **Eviscerate**, Rangers can only kill one target every 24 seconds — assuming it lands.  
-The upside: you can build huge HP pools and become very hard to kill.  
-You *can* kill low‑HP players if they stand still long enough, but it’s unreliable.
-
-This will almost certainly change soon, and current PvP balance should not be taken seriously for long‑term planning.
-
-Melee Related Spells: **Eviscerate, Dash, Melee Specialization, Fan of Knives**
-
-Bow Related Spells: **Volley, Charged Shot, Piercing Shot, Shatter arrow**
 
 ---
 ## 2.3 Wizard
