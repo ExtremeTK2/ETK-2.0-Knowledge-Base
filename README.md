@@ -248,7 +248,8 @@ Guardians use swords and are currently the highest group-oriented DPS in the gam
 | **Warpath** | S68 C42 | 4th rage |
 | **Rampage** | S88 C55 | 5th rage |
 | **Desolation** | S105 C65 | 6th rage |
-| **Cataclysm** | S118 C78 | 7th and final rage |
+| **Cataclysm** | S118 C78 | 7th rage |
+| **Apocalypse** | S160 C100 | 8th rage. |
 | **Second Wind** | C8 | Lowest self-heal |
 | **Steel Mend** | W8 C35 | 2nd self-heal |
 | **Battle Mend** | W18 C72 | 3rd self-heal |
@@ -256,9 +257,9 @@ Guardians use swords and are currently the highest group-oriented DPS in the gam
 | **Defensive Stance** | C25 | 15% reduced dmg taken; swings debuff target dmg by 25% for 6s; hits in a square |
 | **Offensive Stance** | S28 D12 | +25% swing dmg; receive 15% more dmg; 40% reduced self-heal; hits in a square |
 | **Slice** | S30 D18 | Costs 5% HP to deal 8% Vita +10 (Offensive only) |
-| **Decimate** | S55 D28 | Costs 30% HP to deal 75% Vita +50 with overflow (Offensive only) |
+| **Decimate I-II** | I: S55 D28<br>II: S130 D55 | Catastropic vita attack. Costs significant HP. Requires Offensive Stance. |
 | **Wind Strike** | S72 D42 | Costs 30% HP; Vita attack all 4 adjacent tiles; 35% Vita + Str scaling + 0.5x weapon dmg (Offensive only) |
-| **Ground Slam** | S78 D35 C18 | 5x3 AoE; costs 50 rage; 50 flat + 13/str + 1.5x weapon dmg (Offensive only) |
+| **Ground Slam I-II** | I: S78 D35 C18<br>II: S150 D60 C40 | 5x3 AoE; Scales with STR and weapon damage. Requires Offensive Stance. |
 | **Taunt** | S5 C6 | Single target taunt scaling with Str, Vita, and level |
 | **Righteousness** | S10 C22 | 3x threat rate buff; additional threat with higher Str |
 | **Battle Shout** | S25 C52 | AoE taunt; threat scales with Str/Con and rage consumed |
@@ -270,6 +271,8 @@ Guardians use swords and are currently the highest group-oriented DPS in the gam
 | **Last Stand** | C115 | +25% Max HP for 15s (+0.05s per Con); min 1 HP on expiry |
 | **Frenzy** | S75 D38 | Toggle +30% swing dmg; drains 2 rage/swing; blocks rage gain (Offensive only) |
 | **Berserk** | S95 D55 C32 | 30s duration; auto-casts Slice (50%), Decimate (30%), Wind Strike (20%) (Offensive only) |
+| **Titan Mend** | C130 W35 | Massive self-heal. Convert your fury into flesh. Replaces Battle Mend. |
+
 
 </details>
 
