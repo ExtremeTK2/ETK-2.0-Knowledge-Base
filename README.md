@@ -251,9 +251,10 @@ Guardians use swords and are currently the highest group-oriented DPS in the gam
 | **Cataclysm** | S118 C78 | 7th rage |
 | **Apocalypse** | S160 C100 | 8th rage. |
 | **Second Wind** | C8 | Lowest self-heal |
-| **Steel Mend** | W8 C35 | 2nd self-heal |
-| **Battle Mend** | W18 C72 | 3rd self-heal |
-| **Unbreakable** | W28 C105 | 4th and final self-heal |
+| **Steel Mend** | C35 W8 | 2nd self-heal |
+| **Battle Mend** | C72 W18 | 3rd self-heal |
+| **Unbreakable** | C105 W28 | 4th self-heal |
+| **Titan Mend** | C130 W35 | Massive self-heal. Convert your fury into flesh. Replaces Battle Mend. |
 | **Defensive Stance** | C25 | 15% reduced dmg taken; swings debuff target dmg by 25% for 6s; hits in a square |
 | **Offensive Stance** | S28 D12 | +25% swing dmg; receive 15% more dmg; 40% reduced self-heal; hits in a square |
 | **Slice** | S30 D18 | Costs 5% HP to deal 8% Vita +10 (Offensive only) |
@@ -271,7 +272,6 @@ Guardians use swords and are currently the highest group-oriented DPS in the gam
 | **Last Stand** | C115 | +25% Max HP for 15s (+0.05s per Con); min 1 HP on expiry |
 | **Frenzy** | S75 D38 | Toggle +30% swing dmg; drains 2 rage/swing; blocks rage gain (Offensive only) |
 | **Berserk** | S95 D55 C32 | 30s duration; auto-casts Slice (50%), Decimate (30%), Wind Strike (20%) (Offensive only) |
-| **Titan Mend** | C130 W35 | Massive self-heal. Convert your fury into flesh. Replaces Battle Mend. |
 
 
 </details>
