@@ -1,4 +1,4 @@
-## 2.0 Classes, Builds, and Strategies
+## 2.0 Classes and Builds
 This section provides comprehensive information for each class. Group mechanics are compared at the end of this section.
 
 ### Stat Legend
