@@ -136,20 +136,16 @@ Rages require str+con **OR** dex+con, not both.
 
 
 ---
-## 2.3 Wizard
-Wizards use staves or swords and possess the largest pool of AoE abilities of any class.  
-They are also the squishiest class by a wide margin and require strong awareness to play well.
 
-* **Role:** High‑output AoE damage dealer with strong room‑clearing potential.
-* **Solo Performance:** Powerful but demanding; extremely effective in skilled hands.
-* **Maintenance:** Low repair costs, but high positional risk due to low defenses.
-* **Scaling:** Scales heavily with Int, spell power, and proper spell sequencing.
-* **Notes:** Elementalist (classic caster) is currently strong; Enchanter (melee/battlemage) falls off hard at higher levels.
+## 2.3 Wizard
+
+### 2.3.1 Wizard Overview
+Wizards are masters of elemental magic, capable of unleashing devastating area-of-effect damage while controlling the battlefield with powerful offensive and utility spells. With access to the largest arsenal of AoE abilities in the game, they excel at clearing large groups of enemies and can produce exceptional damage when their abilities are used in the proper sequence. Although Wizards are among the most fragile classes due to their low defenses, skilled players can overcome this weakness through careful positioning, crowd control, and effective resource management. Whether specializing in traditional Elementalist magic or experimenting with the Enchanter playstyle, Wizards reward strategic decision-making and precise execution with some of the highest damage potential in the game.
 
 
 ---
 
-### 2.3.1 Comprehensive Wizard Spell List
+### 2.3.2 Comprehensive Wizard Spell List
 <details>
 <summary><b>Click to expand Wizard Spells</b></summary>
 
@@ -195,46 +191,16 @@ They are also the squishiest class by a wide margin and require strong awareness
 
 ---
 
-### 2.3.2 Building Wizard
-Early on, enchanter vs. zapper is mostly preference until the 40s — they are similar at low levels.  
-The main priority is unlocking **Thunderstorm** in the 40s as soon as possible.
-
-After that, progression depends on stat focus:
-
-- More Dex → more DPS potential (and Blink)
-- More Con → higher healing and survivability
-
-By the late 60s you can obtain:  
-Thunderstorm, Greater Firewall, Firewall, Living Bomb, Deep Freeze, Conduit II, Tempest Lance, Arcane Recovery.
-
-By the early 80s you can unlock **Gust**.
-
-After that, remaining progression is:  
-More Int for scaling, more Wis for zap crit chance and mana, next heal upgrades.
-
----
-
 ### 2.3.3 Builds
-Enchanter currently falls off extremely hard by the 50s, leaving no real competition.
-
-Build categories:
-
-1. **Electric kit** — Primarily Int & Wis, some Con.  
-2. **Fire and Ice kit** — Primarily Int, Dex, Wis (Dex kit).  
-3. **Enchanter kit** — Primarily Str & Int, some Wis/Dex.  
-4. **Utility** — Blink and heals; Blink fits Fire & Ice; heals require more Con.
-
-Elementalist includes both Electric and Fire/Ice kits.  
-Enchanter *can* technically build Fire/Ice, but it is not worth doing currently.
-
-Notable niche:  
-Zap‑heavy builds that dump nearly everything into Int/Wis and just enough Dex for Ice Wall.  
-This is a PvP‑oriented approach focused on killing clerics and blocking the ball in deathball.
-
-
+* **Electric Build:** Focuses on the Zap spell line, Conduit, Thunderstorm, and high Intelligence and Wisdom to maximize single-target damage, critical hits, and sustained DPS. This build excels against priority targets and provides consistent damage output with excellent mana efficiency.
+* **Fire & Ice Build:** Focuses on powerful elemental spells such as Firewall, Greater Firewall, Living Bomb, Deep Freeze, and Gust to overwhelm large groups of enemies. This is the premier AoE build, offering exceptional room-clearing potential through strong positioning and spell sequencing.
+* **Enchanter Build:** Focuses on melee combat by combining Mana Infuse, Detonate, and other Battle Mage abilities to enhance weapon attacks with magical damage. While effective during the early and mid game, the build falls off significantly at higher levels and is generally outperformed by traditional Elementalist builds.
+* **Utility Build:** Invests in support and defensive abilities such as Blink, Ice Wall, Energy Shield, and upgraded healing spells to improve survivability and battlefield control. This build sacrifices some damage in exchange for increased mobility, utility, and consistency in difficult encounters.
+* **Build Priority:** Prioritize unlocking higher Rage spells, Envenom Weapon, Volley, and your core utility skills before investing in optional abilities. Ranger damage scales heavily with poison application and Volley, making these the foundation of nearly every successful build.
 
 
 ---
+
 ## 2.4 Cleric
 Clerics use staves, daggers, and swords. They are the premier healing class, capable of reaching top‑tier healing output with relatively low mechanical difficulty.
 
