@@ -75,6 +75,7 @@ Toggle specific UI and control features:
 | **KB Area Target**| **Off:** Use mouse to target area spells.  **On:** Use keyboard to center area spells.  (e.g., Volley). |
 | **FPS Counter** | **Off:** Hidden. **On:** Displays FPS and Ping. **Debug:** Full details. |
 | **Click Movement** | When **On**, move by clicking instead of using keybinds. |
+| **Attack Toggle** | When **On**, press spacebar once to initiate autoswing. No input will disable autoswing after 15 seconds. |
 
 ### Technical Settings
 * **Resolution:** Set a resolution compatible with your monitor.
