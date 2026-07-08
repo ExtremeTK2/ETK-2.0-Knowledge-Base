@@ -257,7 +257,7 @@ Guardians use swords and are currently the highest group-oriented DPS in the gam
 
 | Spell Name | Requirements | Description |
 | :--- | :--- | :--- |
-| **Rage Spells** |
+| ***Rage Spells*** |
 | **Smoldering Fury** | S8 C3 | 1st rage; amplifying swing dmg |
 | **Kindled Wrath** | S22 C12 | 2nd rage |
 | **Bloodrage** | S42 C25 | 3rd rage |
