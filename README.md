@@ -667,16 +667,16 @@ Monks use gloves to fight with their fists. They function primarily as tank, hea
 
 ### 2.5.2 Building Monk
 Searing Stance:  
-Pros: High damage output, decent survivability.
-Cons: Will need a group with tank or healer in endgame.
+Pros: High damage output, decent survivability.<br>
+Cons: Will need a group with tank or healer in endgame.<br>
 
 Radiant Stance:  
-Pros: Group healing, and healing over time. High survivability.
-Cons: No damage output.. Must have a group.
+Pros: Group healing, and healing over time. High survivability.<br>
+Cons: No damage output.. Must have a group.<br>
 
 Tidal Stance:
-Pros: Very tanky. Can taunt and heal. Immortal.
-Cons: Slow dps. Works great in group.
+Pros: Very tanky. Can taunt and heal. Immortal.<br>
+Cons: Slow dps. Works great in group.<br>
 
 ---
 
