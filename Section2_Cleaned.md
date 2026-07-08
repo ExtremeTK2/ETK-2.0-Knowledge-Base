@@ -83,7 +83,7 @@ Rangers are highly mobile damage dealers who excel at clearing groups of enemies
 
 ---
 
-### 2.2.2 Comprehensive Ranger Spell List
+### 2.2.2 Ranger Spell List
 <details>
 <summary><b>Click to expand Ranger Spells</b></summary>
 
@@ -145,7 +145,7 @@ Wizards are masters of elemental magic, capable of unleashing devastating area-o
 
 ---
 
-### 2.3.2 Comprehensive Wizard Spell List
+### 2.3.2 Wizard Spell List
 <details>
 <summary><b>Click to expand Wizard Spells</b></summary>
 
@@ -191,7 +191,7 @@ Wizards are masters of elemental magic, capable of unleashing devastating area-o
 
 ---
 
-### 2.3.3 Builds
+### 2.3.3 Wizard Builds
 * **Electric Build:** Focuses on the Zap spell line, Conduit, Thunderstorm, and high Intelligence and Wisdom to maximize single-target damage, critical hits, and sustained DPS. This build excels against priority targets and provides consistent damage output with excellent mana efficiency.
 * **Fire & Ice Build:** Focuses on powerful elemental spells such as Firewall, Greater Firewall, Living Bomb, Deep Freeze, and Gust to overwhelm large groups of enemies. This is the premier AoE build, offering exceptional room-clearing potential through strong positioning and spell sequencing.
 * **Enchanter Build:** Focuses on melee combat by combining Mana Infuse, Detonate, and other Battle Mage abilities to enhance weapon attacks with magical damage. While effective during the early and mid game, the build falls off significantly at higher levels and is generally outperformed by traditional Elementalist builds.
@@ -202,17 +202,13 @@ Wizards are masters of elemental magic, capable of unleashing devastating area-o
 ---
 
 ## 2.4 Cleric
-Clerics use staves, daggers, and swords. They are the premier healing class, capable of reaching top‑tier healing output with relatively low mechanical difficulty.
 
-* **Role:** Primary healer with unmatched sustain and group support.
-* **Solo Performance:** DPS is currently too weak to be considered viable long‑term, but leveling as DPS is still recommended until around level 50 if you lack an active group.
-* **Maintenance:** Low repair costs and simple rotations make them easy to maintain.
-* **Scaling:** Healing scales strongly with Int, spell power, and supportive gear.
-* **Notes:** Endgame DPS builds are not competitive in the current balance state.
+### 2.4.1 Cleric Overview
+Clerics are the premier healing class, providing unmatched sustain, powerful defensive support, and invaluable utility to any group. While they have access to offensive spells and can level effectively as a damage dealer early on, their greatest strength lies in keeping allies alive through potent heals, protective buffs, and lifesaving abilities. With excellent mana management tools and a versatile support kit, Clerics are essential for tackling the game's most challenging dungeons and boss encounters. Whether restoring massive amounts of health, preventing fatal damage, or empowering their party with utility spells, Clerics serve as the backbone of nearly every successful group composition.
 
 ---
 
-### 2.4.1 Comprehensive Cleric Spell List
+### 2.4.2 Cleric Spell List
 <details>
 <summary><b>Click to expand Cleric Spells</b></summary>
 
@@ -250,83 +246,25 @@ Clerics use staves, daggers, and swords. They are the premier healing class, cap
 
 ---
 
-### 2.4.2 Building Cleric
-
-At low levels, stock **[wine](ca://s?q=Why_do_clerics_use_wine)** from the inn immediately.  
-**Invoke** is not fully viable until the mid **20s–30s**.
-
-**Early Game (1–20)**  
-- Start with a **Holy Fire** build (scales with Wis).  
-- Once you obtain **Imbue I**, pair it with Holy Fire — it increases DPS but reduces healing.
-
-**Late 20s**  
-- Swap to **Consecrate I**, which replaces Holy Fire as your main damage tool.
-
-**30s**  
-- Prioritize **HP** to survive incoming damage.
-
-**40s**  
-- Gain access to **Consecrate II** and **Holy Flame**.  
-- Survivability dips slightly, but DPS increases significantly.  
-- At this point, you can comfortably group with players in the **70s**, making healer builds fully viable.
-
-**DPS Path (40s)**  
-- Scales with **Str**, but falls off sharply in the **50s**.  
-- Not recommended past mid‑game.
-
-**Healer Path**  
-A simple and effective rotation:  
-**Invoke → Sanctuary → Purify → Highest heal available → Everything else**
-
-**Mana Rule of Thumb**  
-“Can I cast **one heal every two seconds** for the entire duration of my **Invoke aethers**?”  
-If yes, your mana pool is sufficient.
-
-**Notable Utility**  
-- **[Light Shield](ca://s?q=Explain_Light_Shield)**  
-- **[Bless](ca://s?q=Explain_Bless_buff)**  
-- **[Death Ward](ca://s?q=Explain_Death_Ward)**  
-- **[Saving Grace](ca://s?q=Explain_Saving_Grace)**  
-- **[Bind](ca://s?q=Explain_Bind_spell)**  
-- **[Silence](ca://s?q=Explain_Silence_spell)**  
-- **[Dispel](ca://s?q=Explain_Dispel_spell)**  
-- **[Inspire](ca://s?q=Explain_Inspire_buff)**  
-
-These are not mandatory but extremely helpful in group play.
-
-**High‑Level Healing Tip**  
-Use **Divine Mending** as your primary heal and **Radiant** as your restore to reduce mana waste.  
-Radiant is more efficient **if** you are consistently healing its full value.
+### 2.4.3 Cleric Builds
+* **Healer Build:** Focuses on Intelligence and Wisdom to maximize healing output, mana efficiency, and supportive utility. This is the strongest and most commonly used Cleric build, making it indispensable for instances, bosses, and high-level group content.
+* **Consecrate DPS Build:** Focuses on Strength while utilizing Imbue and Consecrate to deal respectable area damage during the early and mid game. Although effective for leveling and farming, its damage falls behind other classes at higher levels and is generally transitioned into a full healer build.
+* **Tank Cleric Build:** Focuses on Constitution to increase survivability while maintaining access to the Cleric's powerful healing and utility toolkit. This build is well suited for players who frequently find themselves under pressure or serving as an off-tank in smaller groups.
+* **Support Build:** Invests in utility spells such as Sanctuary, Death Ward, Saving Grace, Light Shield, Purify, Dispel, and Inspire to maximize party survivability and control. While every Cleric naturally provides support, this approach emphasizes utility over personal damage.
+* **Build Priority:** Prioritize unlocking higher healing spells, Consecrate, and core utility abilities before investing in niche or DPS-oriented skills. As you progress into the late game, transitioning toward a full healing build provides the greatest benefit to both you and your group.
 
 
 ---
 
-### 2.4.3 Builds
-Cleric is very cookie‑cutter, so here are the main builds:
-
-1. **Tank Build** — Focuses on Con
-   High vita build made to take high damage.
-
-2. **DPS build** — Focuses on Str/Dex.  
-   Used for soloing or groups lacking DPS.  
-
-3. **Healer build** — Focuses on Int/Wis.  
-   Heals, buffs, group heal, heal over time.<br>
-
----
 ## 2.5 Monk
-Monks use gloves to fight with their fists. They function primarily as tank, healer, or dps.
 
-* **Role:** Exceptional support with strong healing and powerful group utility.
-* **Solo Performance:** Depends on build. Healing is highly efficient for most content, but damage output is currently the 4th weakest overall. 
-* **Maintenance:** Low upkeep and simple rotations, with most value coming from buffs and support tools.
-* **Scaling:** Benefits from Wis, supportive gear, and utility‑focused stat choices.
-* **Notes:** Fire (DPS) builds fall off quickly; outside early levels, consider them non‑viable for now.
+### 2.5.1 Monk Overview
+Monks are versatile martial artists capable of filling the roles of tank, healer, or damage dealer through their unique stance-based combat system. By switching between Tidal, Radiant, and Searing Stances, they can adapt to the needs of nearly any group while providing exceptional utility, survivability, and support. Although their damage-focused playstyle falls behind other classes in the late game, Monks remain highly valued for their powerful buffs, efficient healing, and durable frontline presence. Their straightforward mechanics and flexibility make them an excellent choice for players who enjoy supporting their team while remaining actively involved in combat.
 
 
 ---
 
-### 2.5.1 Comprehensive Monk Spell List
+### 2.5.2 Monk Spell List
 <details>
 <summary><b>Click to expand Monk Spells</b></summary>
 
@@ -374,33 +312,13 @@ Monks use gloves to fight with their fists. They function primarily as tank, hea
 
 ---
 
-### 2.5.2 Building Monk
-Searing Stance:  
-Pros: High damage output, decent survivability.<br>
-Cons: Will need a group with tank or healer in endgame.<br>
+### 2.5.3 Monk Builds
+* **Searing Stance:** Focuses on fast attacks, high mobility, and sustained physical damage through different combos and techniques. Excels at quickly closing gaps, chaining abilities together, and overwhelming enemies with rapid strikes. Best suited for players who enjoy an aggressive, high-action playstyle.
+* **Tidal Stance:** Prioritizes survivability through defensive skills, damage reduction, and crowd control abilities. Designed to absorb enemy attacks while protecting allies and controlling the battlefield. Ideal for players who prefer a durable frontline role.
+* **Radiant Stance:** Focuses on restoring health, providing buffs, and enhancing the effectiveness of allies. Uses spiritual abilities to cleanse negative effects, increase team performance, and provide utility. Strong choice for group-based content where teamwork and survivability are important.
 
-Radiant Stance:  
-Pros: Group healing, and healing over time. High survivability.<br>
-Cons: No damage output.. Must have a group.<br>
-
-Tidal Stance:
-Pros: Very tanky. Can taunt and heal. Immortal.<br>
-Cons: Slow dps. Works great in group.<br>
 
 ---
-
-### 2.5.3 Builds
-**Radiant** — Designed to heal and shield allies.  
-**Tidal** — Designed to taunt ads and take damage, allowing teammates to deal damage.  
-**Searing** — Designed to deal massive ammounts of damage.
-
-Hybrid builds are not really possible, given that each set of spells can only be cast while in a particular stance.  
-
-By level 80, you can take a full light build, Monsoon, and most of the fire kit by building past Transcendence Str requirements.
-
-Overall, monk complexity is low — effectiveness depends more on group composition than rotation.
-
-
 
 ## 2.6 Group Strategy
 This section defines how classes function with other classes in different scenarios.
