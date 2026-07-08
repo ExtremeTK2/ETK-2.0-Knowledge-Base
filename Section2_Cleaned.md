@@ -66,9 +66,11 @@ Guardians are durable frontline fighters who specialize in protecting their alli
 </details>
 
 ### 2.1.3 Builds
-* **Priorities** Focus on reaching higher rages and heals; **Defensive Stance** is generally the safest bet.
-* **DPS Build (Offensive Stance):** Offensive stance is usable solo but can be sketchy. Offensive offers the high DPS but is only recommended for soloing content you have out-leveled or with a group.
-* **Tank Build (Defensive Stance):** Defensive stance is a bit slower for solo, but much safer and less likely to die. Defensive is required for soloing of-level content, tanking instances, and bosses.
+* **Defensive Tank Build:** Focuses on Constitution and survivability to maximize threat generation, self-healing, and damage mitigation. This is the preferred build for tanking instances, bosses, and challenging content.
+* **Offensive DPS Build:** Focuses on Strength, Vita, and weapon damage to maximize sustained melee DPS. While capable of excellent damage output, it sacrifices durability and is best suited for over-leveled solo content or group play with a dedicated healer.
+* **Hybrid Build:** Balances offensive and defensive stats to provide respectable damage while maintaining enough survivability for general hunting. This build offers flexibility but does not excel as either a dedicated tank or a pure DPS Guardian.
+* **Stance Selection:** Defensive Stance is recommended for difficult encounters, tanking, and most solo progression, while Offensive Stance provides significantly higher damage at the cost of reduced survivability and healing effectiveness.
+* **Build Priority:** Prioritize unlocking higher Rage spells, self-heals, and core utility abilities before investing heavily into offensive skills. These provide the greatest increase to both survivability and overall effectiveness throughout progression.
 
    *  **Note: Guardians can interweave vengeance by casting it, taking damage, and changing to offensive stance.**
 
@@ -77,11 +79,11 @@ Guardians are durable frontline fighters who specialize in protecting their alli
 ## 2.2 Ranger
 Rangers use bows or daggers and rely on high AoE damage, mobility, and smart positioning to perform well.
 
-* **Role:** Flexible damage dealer with strong clearing potential.
-* **Solo Performance:** One of the strongest solo classes once established; early game is slower.
-* **Maintenance:** Low repair costs and high uptime make them efficient for long sessions.
-* **Scaling:** Damage scales heavily with Dex, weapon damage, and proper positioning.
-* **Notes:** Melee builds are currently not viable for PvE.
+* **Defensive Tank Build:** Focuses on Constitution and survivability to maximize threat generation, self-healing, and damage mitigation. This is the preferred build for tanking instances, bosses, and challenging content.
+* **Offensive DPS Build:** Focuses on Strength, Vita, and weapon damage to maximize sustained melee DPS. While capable of excellent damage output, it sacrifices durability and is best suited for over-leveled solo content or group play with a dedicated healer.
+* **Hybrid Build:** Balances offensive and defensive stats to provide respectable damage while maintaining enough survivability for general hunting. This build offers flexibility but does not excel as either a dedicated tank or a pure DPS Guardian.
+* **Stance Selection:** Defensive Stance is recommended for difficult encounters, tanking, and most solo progression, while Offensive Stance provides significantly higher damage at the cost of reduced survivability and healing effectiveness.
+* **Build Priority:** Prioritize unlocking higher Rage spells, self-heals, and core utility abilities before investing heavily into offensive skills. These provide the greatest increase to both survivability and overall effectiveness throughout progression.
 
 
 ---
