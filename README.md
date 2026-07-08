@@ -408,36 +408,42 @@ They are also the squishiest class by a wide margin and require strong awareness
 
 | Spell Name | Requirements | Explanation |
 | :--- | :--- | :--- |
+| ***Zap Spells*** |
 | **Spark** | I10 W5 | First targetable zap; scales with Int; crit chance scales with Wis. |
-| **Meditation** | Free | Restores mana over time if you do not get hit or cast/swing. |
-| **Fireball** | I18 D10 | Low‑damage AoE. |
-| **Mana Mend I-IV** | I: I10 W12 C12<br>II: C18 I60 W20<br>III: C26 I110 W30<br>IV: C34 I160 W40 | Channel 10% of your maximum mana into self-restoration. Scales with INT and CON. |
-| **Mana Infuse I-IV** | I: S15 I15 W8<br>II: S45 I60 W12<br>III: S75 I110 W16<br>IV: S105 I160 W20 | Drains mana per swing to deal magic damage. |
 | **Arc** | I30 W15 | Second targetable zap. |
+| **Voltstrike** | I55 W28 | Third targetable zap. |
+| **Thunderbolt** | I78 W42 | Fourth targetable zap. |
+| **Tempest Lance** | I105 W58 | Fifth targetable zap. |
+| **Storm Lance** | I145 W75 | Sixth targetable zap with heavier crit chance and crit damage. Replaces Tempest Lance. |
+| **Maelstrom** | I190 W95 | Seventh targetable zap with heavier crit chance and crit damage. Replaces Storm Lance. |
+| ***Healing Spells*** |
+| **Mana Mend I-IV** | I: I10 W12 C12<br>II: C18 I60 W20<br>III: C26 I110 W30<br>IV: C34 I160 W40 | Channel 10% of your maximum mana into self-restoration. Scales with INT and CON. |
+| **Arcane Recovery** | I25 W38 C30 | Upgrade of Mana Mend with higher healing. |
+| **Siphon Vitality** | I35 W55 C45 | Third wizard self‑heal. |
+| ***Elemental Spells*** |
+| **Fireball** | I18 D10 | Low‑damage AoE. |
 | **Ice Wall** | I25 D20 W12 | Select up to 4 tiles to make impassable briefly. |
+| **Firewall**<br>**Greater Firewall** | I45 D18 W20<br>I88 D60 W38 | Select up to 9 tiles to place damaging fire walls.<br>Upgrade of Firewall; 13 tiles; higher scaling; separate cooldown. |
+| **Thunderstorm** | I120 W55 C28 | Large AoE; hits up to 8 targets every 2s for 20s; damage escalates. |
+| **Gust** | I75 D95 W55 | Targetable AoE dealing damage in a box around the target for 7 seconds. |
+| **Conduit I-III** | I: I55 W32<br>II: I78 W48<br>III: I120 W65 | Auto‑zaps targets within 8 tiles every few seconds. |
+| ***Defensive Spells*** |
 | **Frozen Armor I-II** | I: I15 D18 C22<br>II: D60 C45 I40 | Reflects damage back at attackers. |
 | **Lightning Shield I-II** | I: I22 W20 C20<br>II: I85 W55 C35 | Box AoE around self, dealing constant “circle” damage. |
-| **Doze** | I25 W28 | Puts target to sleep briefly; works in PvP. |
+| **Energy Shield I-II** | I: I32 W22 C38<br>II: C60 I70 W45 | Take damage as mana instead of HP. |
+| ***Battle Mage Spells***
+| **Mana Infuse I-IV** | I: S15 I15 W8<br>II: S45 I60 W12<br>III: S75 I110 W16<br>IV: S105 I160 W20 | Drains mana per swing to deal magic damage. |
 | **Mana Ingress** | S25 I22 D10 W15 | Swinging restores mana instead of dealing magic damage. |
 | **Enchanted Flank** | S28 I25 D15 | Attacks also hit enemies on your sides. |
-| **Voltstrike** | I55 W28 | Third targetable zap. |
-| **Blink** | I45 D18 W20 | Teleport to a selected tile; requires clear path. |
-| **Firewall**<br>**Greater Firewall** | I45 D18 W20<br>I88 D60 W38 | Select up to 9 tiles to place damaging fire walls.<br>Upgrade of Firewall; 13 tiles; higher scaling; separate cooldown. |
-| **Arcane Recovery** | I25 W38 C30 | Upgrade of Mana Mend with higher healing. |
-| **Conduit I-III** | I: I55 W32<br>II: I78 W48<br>III: I120 W65 | Auto‑zaps targets within 8 tiles every few seconds. |
-| **Energy Shield I-II** | I: I32 W22 C38<br>II: C60 I70 W45 | Take damage as mana instead of HP. |
 | **Detonate** | S38 I45 W15 | 4‑direction attack based on Mana Infuse hit stacks. |
-| **Thunderbolt** | I78 W42 | Fourth targetable zap. |
+| **Unbound Infuse I-II** | I: S55 I48 W32<br>II: S72 I65 W45 | I: Party aura sharing 10% of Mana Infuse damage.<br>II: Upgrade of Unbound Infuse; shares 15% of Mana Infuse. |
+| **Enchanted Bulwark** | S110 I35 C55 | Self‑buff reducing incoming damage by 15%. |
+| ***Additional Spells*** |
+| **Meditation** | Free | Restores mana over time if you do not get hit or cast/swing. |
+| **Doze** | I25 W28 | Puts target to sleep briefly; works in PvP. |
+| **Blink** | I45 D18 W20 | Teleport to a selected tile; requires clear path. |
 | **Living Bomb I-II** | I: I72 D40 W28<br>II: D70 I120 W50 | Target explodes after a delay; spreads if target dies. |
 | **Deep Freeze** | I62 D45 W38 | Targetable spell that shatters damage in a square around the target when it takes damage. |
-| **Siphon Vitality** | I35 W55 C45 | Third wizard self‑heal. |
-| **Unbound Infuse I-II** | I: S55 I48 W32<br>II: S72 I65 W45 | I: Party aura sharing 10% of Mana Infuse damage.<br>II: Upgrade of Unbound Infuse; shares 15% of Mana Infuse. |
-| **Tempest Lance** | I105 W58 | Stronger targetable zap. Replaces Thunderbolt. |
-| **Thunderstorm** | I120 W55 C28 | Large AoE; hits up to 8 targets every 2s for 20s; damage escalates. |
-| **Enchanted Bulwark** | S110 I35 C55 | Self‑buff reducing incoming damage by 15%. |
-| **Gust** | I75 D95 W55 | Targetable AoE dealing damage in a box around the target for 7 seconds. |
-| **Storm Lance** | I145 W75 | Stronger targetable zap with heavier crit chance and crit damage. Replaces Tempest Lance. |
-| **Maelstrom** | I190 W95 | Strongest targetable zap with heavier crit chance and crit damage. Replaces Storm Lance. |
 
 
 </details>
@@ -621,11 +627,7 @@ Monks use gloves to fight with their fists. They function primarily as tank, hea
 | **Tidal Stance** | C14 | Enter the Tidal (Tank) stance: -25% damage taken, all attacks generate 5x threat, -15% damage dealt. |
 | **Radiant Stance** | I12 W8 | Enter the Radiant (Heal) stance: +75% healing done and passive Spirit regen, but -25% damage dealt. |
 | **Searing Stance** | S10 D10 | Enter the Searing (DPS) stance: +25% damage dealt, but +10% damage taken. |
-
-
-**Tidal Stance Exclusive**
-| Spell Name | Requirements | Explanation |
-| :--- | :--- | :--- |
+| ***Tidal Stance Spells*** |
 | **Hammer Fist I-IV** | I: C25<br>II: C70<br>III: C110<br>IV: C150 | A heavy single-target strike; the stance's threat makes it a strong taunt. |
 | **Tidal Mending I-IV** | I: C25<br>II: C65<br>III: C105<br>IV: C150 | The tank's primary self-heal: a fast, spammable heal that scales with CON. |
 | **Tidal Sweep** | C30 | Toggle: your strikes hit all 8 surrounding tiles, spreading threat across a pack. |
@@ -634,11 +636,7 @@ Monks use gloves to fight with their fists. They function primarily as tank, hea
 | **Crashing Wave I-IV** | I: C35 W18<br>II: C75 W25<br>III: C115 W30<br>IV: C150 W35 | Crash a wave over nearby foes, damaging them and healing yourself, then brace against damage. |
 | **Undertow** | S25 C60 | Root nearby enemies in place. |
 | **Last Bastion** | C115 | Bolster your maximum health for a short time. |
-
-
-**Radiant Stance Exclusive**
-| Spell Name | Requirements | Explanation |
-| :--- | :--- | :--- |
+| ***Radiant Stance Spells*** |
 | **Meditate** | Lvl: 1 | Channel to rapidly restore Spirit. Breaks on action. |
 | **Mending Palm I-IV** | I: I26 W6<br>II: I60 W8<br>III: I100 W11<br>IV: I140 W14 | Heal a target over time (higher ranks also add an absorb shield), scaling with INT. |
 | **Healing Palm I-IV** | I: C11 I42<br>II: C15 I80<br>III: C20 I120<br>IV: C25 I160 | A direct heal that scales with INT. |
@@ -647,11 +645,7 @@ Monks use gloves to fight with their fists. They function primarily as tank, hea
 | **Beacon I-IV** | I: I48 W38<br>II: I85 W42<br>III: I125 W46<br>IV: I160 W50 | Bathe your whole group in healing light over time. |
 | **Radiant Burst I-IV** | I: I97 W22<br>II: I125 W28<br>III: I155 W34<br>IV: I185 W40 | A burst of radiant energy that heals your whole group. |
 | **Sacred Renewal I-IV** | I: I149 W26<br>II: I170 W30<br>III: I185 W34<br>IV: I195 W38 | A massive single-target heal. |
-
-
-**Searing Stance Exclusive**
-| Spell Name | Requirements | Explanation |
-| :--- | :--- | :--- |
+| ***Searing Stance Spells*** |
 | **Swift Strike I-IV** | I: S9 D14<br>II: S30 D55<br>III: S55 D105<br>IV: S80 D155 | A fast strike that builds Chakra. |
 | **Iron Fist I-IV** | I: S24 D11<br>II: S70 D30<br>III: S120 D50<br>IV: S160 D70 | A heavier punch that builds Chakra. |
 | **Mending Breath I-IV** | I: D15 C10<br>II: D55 C50<br>III: D90 C90<br>IV: D135 C130 | A quick self-heal that scales with CON and DEX. |
@@ -662,11 +656,7 @@ Monks use gloves to fight with their fists. They function primarily as tank, hea
 | **Searing Fervor I-IV** | I: S15 D15<br>II: S60 D55<br>III: S105 D95<br>IV: S150 D140 | Spend Chakra to empower your swings for a duration. Refiring extends it and keeps the stronger bonus. |
 | **Searing Tempo** | S52 D48 | Toggle: grant your whole group bonus damage. |
 | **Eruption I-IV** | I: S105 D60<br>II: S130 D90<br>III: S160 D120<br>IV: S190 D150 | Erupt in an 8-directional explosion, scorching everything around you. |
-
-
-**Universal Monk Spells**
-| Spell Name | Requirements | Explanation |
-| :--- | :--- | :--- |
+| ***Additional Spells*** |
 | **Inner Peace** | C16 W20 | Channel inner calm to regenerate Spirit over time without breaking on action. |
 | **Jab** | D6 | A quick basic strike. |
 | **Spirit Walk** | D20 C20 | Your spirit leaves your body, turning invisible. Your body proxies damage. Recast to end. |
@@ -676,13 +666,17 @@ Monks use gloves to fight with their fists. They function primarily as tank, hea
 ---
 
 ### 2.5.2 Building Monk
-Levels 1–35:  
-Searing build is ideal. Damage procs alone wipe everything up to Insect Cave.
-Radiant and Tidal build are for groups, and not really helpful when solo hunting.
+Searing Stance:  
+Pros: High damage output, decent survivability.
+Cons: Will need a group with tank or healer in endgame.
 
-Levels 35+:  
-If solo hunting, it's still preferred.
-Time to group with a wizard, guardian, or ranger using a Radiant or Tidal build.
+Radiant Stance:  
+Pros: Group healing, and healing over time. High survivability.
+Cons: No damage output.. Must have a group.
+
+Tidal Stance:
+Pros: Very tanky. Can taunt and heal. Immortal.
+Cons: Slow dps. Works great in group.
 
 ---
 
