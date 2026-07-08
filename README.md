@@ -225,7 +225,9 @@ The My Auctions tab shows everything you're selling or currently winning; unsold
 Bonded items cannot be auctioned.
 
 
-## 2.0 Classes, Builds, and Strategies
+---
+
+## 2.0 Classes and Builds
 This section provides comprehensive information for each class. Group mechanics are compared at the end of this section.
 
 ### Stat Legend
@@ -243,15 +245,11 @@ This section provides comprehensive information for each class. Group mechanics 
 
 ## 2.1 Guardian
 
-### 2.1.1 Intro to Guardians
-Guardians use swords and are currently the highest group-oriented DPS in the game.
+### 2.1.1 Guardian Overview
+Guardians are durable frontline fighters who specialize in protecting their allies while delivering some of the highest sustained group damage in the game. Armed with powerful melee attacks, defensive stances, and threat-generating abilities, they excel at controlling enemies and keeping dangerous encounters focused on themselves. Although they can be challenging to level solo due to high repair costs and lower efficiency compared to some other classes, Guardians become indispensable in group content, where their survivability, utility, and scaling with Strength, Constitution, Vita, and weapon damage allow them to thrive. Whether serving as an unbreakable tank or an aggressive damage dealer, Guardians are a cornerstone of successful party compositions.
 
-* **Role:** Necessary as tanks for some content.
-* **Solo Performance:** Ranked 3rd strongest/weakest solo; significantly outshined by Rangers and Wizards.
-* **Maintenance:** Repair bills are significantly higher than other classes, making soloing ultra-punishing.
-* **Scaling:** Group DPS is heavily influenced by Vita, Str, and weapon damage.
 
-### 2.1.2 Comprehensive Guardian Spell List
+### 2.1.2 Guardian Spell List
 <details>
 <summary><b>Click to expand Guardian Spells</b></summary>
 
@@ -294,32 +292,27 @@ Guardians use swords and are currently the highest group-oriented DPS in the gam
 | **Last Stand** | C115 | +25% Max HP for 15s (+0.05s per Con); min 1 HP on expiry |
 | **Frenzy** | S75 D38 | Toggle +30% swing dmg; drains 2 rage/swing; blocks rage gain (Offensive only) |
 
-
-
 </details>
 
 ### 2.1.3 Guardian Builds
-* **Priorities** Focus on reaching higher rages and heals; **Defensive Stance** is generally the safest bet.
-* **DPS Build (Offensive Stance):** Offensive stance is usable solo but can be sketchy. Offensive offers the high DPS but is only recommended for soloing content you have out-leveled or with a group.
-* **Tank Build (Defensive Stance):** Defensive stance is a bit slower for solo, but much safer and less likely to die. Defensive is required for soloing of-level content, tanking instances, and bosses.
+* **Defensive Tank Build:** Focuses on Constitution and survivability to maximize threat generation, self-healing, and damage mitigation. This is the preferred build for tanking instances, bosses, and challenging content.
+* **Offensive DPS Build:** Focuses on Strength, Vita, and weapon damage to maximize sustained melee DPS. While capable of excellent damage output, it sacrifices durability and is best suited for over-leveled solo content or group play with a dedicated healer.
+* **Hybrid Build:** Balances offensive and defensive stats to provide respectable damage while maintaining enough survivability for general hunting. This build offers flexibility but does not excel as either a dedicated tank or a pure DPS Guardian.
+* **Stance Selection:** Defensive Stance is recommended for difficult encounters, tanking, and most solo progression, while Offensive Stance provides significantly higher damage at the cost of reduced survivability and healing effectiveness.
+* **Build Priority:** Prioritize unlocking higher Rage spells, self-heals, and core utility abilities before investing heavily into offensive skills. These provide the greatest increase to both survivability and overall effectiveness throughout progression.
 
    *  **Note: Guardians can interweave vengeance by casting it, taking damage, and changing to offensive stance.**
 
 
 ---
 ## 2.2 Ranger
-Rangers use bows or daggers and rely on high AoE damage, mobility, and smart positioning to perform well.
 
-* **Role:** Flexible damage dealer with strong clearing potential.
-* **Solo Performance:** One of the strongest solo classes once established; early game is slower.
-* **Maintenance:** Low repair costs and high uptime make them efficient for long sessions.
-* **Scaling:** Damage scales heavily with Dex, weapon damage, and proper positioning.
-* **Notes:** Melee builds are currently not viable for PvE.
-
+### 2.2.1 Guardian Overview
+Rangers are highly mobile damage dealers who excel at clearing groups of enemies through powerful ranged attacks, poison effects, and area-of-effect abilities. Their exceptional sustained damage, low maintenance costs, and strong scaling with Dexterity, weapon damage, and positioning make them one of the strongest classes for solo progression and an invaluable addition to any group. While archery is currently the dominant playstyle for PvE, Rangers also have access to traps, mobility skills, and utility abilities that reward strategic planning and battlefield awareness. Mastering positioning, poison management, and ability timing allows Rangers to consistently deliver some of the highest damage output in the game.
 
 ---
 
-### 2.2.1 Comprehensive Ranger Spell List
+### 2.2.2 Ranger Spell List
 <details>
 <summary><b>Click to expand Ranger Spells</b></summary>
 
@@ -364,45 +357,24 @@ Rages require str+con **OR** dex+con, not both.
 
 ---
 
-### 2.2.2 Building Ranger
-Levels 1–20: Prioritize poison (**Envenom Weapon**) and spreading poison efficiently.  
-Levels 20–35: Pick QoL options like **Shatter Arrow**, **Fan of Knives**, **Soothe**, etc.  
-Levels 35+: Focus on reaching the stats for **Volley II** ASAP. Poison Trap + Volley II are the majority of Ranger DPS.  
-Levels 50+: Choose QoL based on playstyle.  
-• Solo often? Get a heal early.  
-• Group often? Prioritize next rage / Envenom IV.  
-
-By the late 70s you should have:  
-Dash, Rejuvenate, Dragon’s Wrath, Envenom IV, Volley II, Charged Shot II, and all traps.
-
-After that, you can invest into more Dex/Int for Volley/Poison damage or experiment with hybrid builds.
-
-Ranger progression is simple:  
-It poisons things, then it volleys and poisons things. It keeps doing that.
-
----
-
 ### 2.2.3 Ranger Builds
-* **Priorities** Focus on getting Dragon's Wrath, and DPS skills for whichever build you choose.
-* **Archer Build:** Uses Volley and Shatter Arrow. The archer build offers high DPS from a ranged weapon (bow). Combined with Envenom, this a deadly build, but the trade-off is you have to keep moving. You can ambush your way out, but you take high ammounts of damage.
-* **Rogue Build:** Uses Eviscerate, Melee Specialization, & Fan of Knives. I have not personally played this build yet, since it's update on 7/4/26, but will update as I test or receive more info.
+* **Archer Build:** Focuses on bows, Volley, Shatter Arrow, and Charged Shot to deal exceptional ranged AoE damage. This is the strongest and most popular PvE build, offering outstanding clear speed while rewarding good positioning and mobility.
+* **Rogue Build:** Focuses on daggers, Eviscerate, Fan of Knives, and Melee Specialization to deliver high burst damage in melee range. While the build has strong potential, it is currently less proven than the Archer build and requires careful positioning to maximize damage and survivability.
+* **Poison Build:** Prioritizes Envenom Weapon, Poison Trap, and poison-spreading abilities to steadily wear down enemies while enhancing the damage of your core attacks. Poison forms the backbone of nearly every Ranger build and should be upgraded as early as possible.
+* **Build Priority:** Prioritize unlocking higher Rage spells, Envenom Weapon, Volley, and your core utility skills before investing in optional abilities. Ranger damage scales heavily with poison application and Volley, making these the foundation of nearly every successful build.
 
 
 ---
+
 ## 2.3 Wizard
-Wizards use staves or swords and possess the largest pool of AoE abilities of any class.  
-They are also the squishiest class by a wide margin and require strong awareness to play well.
 
-* **Role:** High‑output AoE damage dealer with strong room‑clearing potential.
-* **Solo Performance:** Powerful but demanding; extremely effective in skilled hands.
-* **Maintenance:** Low repair costs, but high positional risk due to low defenses.
-* **Scaling:** Scales heavily with Int, spell power, and proper spell sequencing.
-* **Notes:** Elementalist (classic caster) is currently strong; Enchanter (melee/battlemage) falls off hard at higher levels.
+### 2.3.1 Wizard Overview
+Wizards are masters of elemental magic, capable of unleashing devastating area-of-effect damage while controlling the battlefield with powerful offensive and utility spells. With access to the largest arsenal of AoE abilities in the game, they excel at clearing large groups of enemies and can produce exceptional damage when their abilities are used in the proper sequence. Although Wizards are among the most fragile classes due to their low defenses, skilled players can overcome this weakness through careful positioning, crowd control, and effective resource management. Whether specializing in traditional Elementalist magic or experimenting with the Enchanter playstyle, Wizards reward strategic decision-making and precise execution with some of the highest damage potential in the game.
 
 
 ---
 
-### 2.3.1 Comprehensive Wizard Spell List
+### 2.3.2 Wizard Spell List
 <details>
 <summary><b>Click to expand Wizard Spells</b></summary>
 
@@ -444,64 +416,28 @@ They are also the squishiest class by a wide margin and require strong awareness
 | **Blink** | I45 D18 W20 | Teleport to a selected tile; requires clear path. |
 | **Living Bomb I-II** | I: I72 D40 W28<br>II: D70 I120 W50 | Target explodes after a delay; spreads if target dies. |
 | **Deep Freeze** | I62 D45 W38 | Targetable spell that shatters damage in a square around the target when it takes damage. |
-
-
 </details>
 
 ---
 
-### 2.3.2 Building Wizard
-Early on, enchanter vs. zapper is mostly preference until the 40s — they are similar at low levels.  
-The main priority is unlocking **Thunderstorm** in the 40s as soon as possible.
-
-After that, progression depends on stat focus:
-
-- More Dex → more DPS potential (and Blink)
-- More Con → higher healing and survivability
-
-By the late 60s you can obtain:  
-Thunderstorm, Greater Firewall, Firewall, Living Bomb, Deep Freeze, Conduit II, Tempest Lance, Arcane Recovery.
-
-By the early 80s you can unlock **Gust**.
-
-After that, remaining progression is:  
-More Int for scaling, more Wis for zap crit chance and mana, next heal upgrades.
-
----
-
-### 2.3.3 Wizard Build Purposes
-Enchanter currently falls off extremely hard by the 50s, leaving no real competition.
-
-Build categories:
-
-1. **Electric kit** — Primarily Int & Wis, some Con.  
-2. **Fire and Ice kit** — Primarily Int, Dex, Wis (Dex kit).  
-3. **Enchanter kit** — Primarily Str & Int, some Wis/Dex.  
-4. **Utility** — Blink and heals; Blink fits Fire & Ice; heals require more Con.
-
-Elementalist includes both Electric and Fire/Ice kits.  
-Enchanter *can* technically build Fire/Ice, but it is not worth doing currently.
-
-Notable niche:  
-Zap‑heavy builds that dump nearly everything into Int/Wis and just enough Dex for Ice Wall.  
-This is a PvP‑oriented approach focused on killing clerics and blocking the ball in deathball.
-
-
+### 2.3.3 Wizard Builds
+* **Electric Build:** Focuses on the Zap spell line, Conduit, Thunderstorm, and high Intelligence and Wisdom to maximize single-target damage, critical hits, and sustained DPS. This build excels against priority targets and provides consistent damage output with excellent mana efficiency.
+* **Fire & Ice Build:** Focuses on powerful elemental spells such as Firewall, Greater Firewall, Living Bomb, Deep Freeze, and Gust to overwhelm large groups of enemies. This is the premier AoE build, offering exceptional room-clearing potential through strong positioning and spell sequencing.
+* **Enchanter Build:** Focuses on melee combat by combining Mana Infuse, Detonate, and other Battle Mage abilities to enhance weapon attacks with magical damage. While effective during the early and mid game, the build falls off significantly at higher levels and is generally outperformed by traditional Elementalist builds.
+* **Utility Build:** Invests in support and defensive abilities such as Blink, Ice Wall, Energy Shield, and upgraded healing spells to improve survivability and battlefield control. This build sacrifices some damage in exchange for increased mobility, utility, and consistency in difficult encounters.
+* **Build Priority:** Prioritize unlocking higher Rage spells, Envenom Weapon, Volley, and your core utility skills before investing in optional abilities. Ranger damage scales heavily with poison application and Volley, making these the foundation of nearly every successful build.
 
 
 ---
+
 ## 2.4 Cleric
-Clerics use staves, daggers, and swords. They are the premier healing class, capable of reaching top‑tier healing output with relatively low mechanical difficulty.
 
-* **Role:** Primary healer with unmatched sustain and group support.
-* **Solo Performance:** DPS is currently too weak to be considered viable long‑term, but leveling as DPS is still recommended until around level 50 if you lack an active group.
-* **Maintenance:** Low repair costs and simple rotations make them easy to maintain.
-* **Scaling:** Healing scales strongly with Int, spell power, and supportive gear.
-* **Notes:** Endgame DPS builds are not competitive in the current balance state.
+### 2.4.1 Cleric Overview
+Clerics are the premier healing class, providing unmatched sustain, powerful defensive support, and invaluable utility to any group. While they have access to offensive spells and can level effectively as a damage dealer early on, their greatest strength lies in keeping allies alive through potent heals, protective buffs, and lifesaving abilities. With excellent mana management tools and a versatile support kit, Clerics are essential for tackling the game's most challenging dungeons and boss encounters. Whether restoring massive amounts of health, preventing fatal damage, or empowering their party with utility spells, Clerics serve as the backbone of nearly every successful group composition.
 
 ---
 
-### 2.4.1 Comprehensive Cleric Spell List
+### 2.4.2 Cleric Spell List
 <details>
 <summary><b>Click to expand Cleric Spells</b></summary>
 
@@ -535,89 +471,29 @@ Clerics use staves, daggers, and swords. They are the premier healing class, cap
 | **Harden Body** | S108 I18 D14 W16 C31 | Prevent all damage while active; fizzle chance reduced by Int. |
 | **Celestial Mending** | D20 C40 I165 W30 | Stronger heal than Radiant Heal. |
 | **Empyrean Grace** | D24 C46 I190 W36 | Stronger heal than Celestial Mending. |
-
-
 </details>
 
 ---
 
-### 2.4.2 Building Cleric
-
-At low levels, stock **[wine](ca://s?q=Why_do_clerics_use_wine)** from the inn immediately.  
-**Invoke** is not fully viable until the mid **20s–30s**.
-
-**Early Game (1–20)**  
-- Start with a **Holy Fire** build (scales with Wis).  
-- Once you obtain **Imbue I**, pair it with Holy Fire — it increases DPS but reduces healing.
-
-**Late 20s**  
-- Swap to **Consecrate I**, which replaces Holy Fire as your main damage tool.
-
-**30s**  
-- Prioritize **HP** to survive incoming damage.
-
-**40s**  
-- Gain access to **Consecrate II** and **Holy Flame**.  
-- Survivability dips slightly, but DPS increases significantly.  
-- At this point, you can comfortably group with players in the **70s**, making healer builds fully viable.
-
-**DPS Path (40s)**  
-- Scales with **Str**, but falls off sharply in the **50s**.  
-- Not recommended past mid‑game.
-
-**Healer Path**  
-A simple and effective rotation:  
-**Invoke → Sanctuary → Purify → Highest heal available → Everything else**
-
-**Mana Rule of Thumb**  
-“Can I cast **one heal every two seconds** for the entire duration of my **Invoke aethers**?”  
-If yes, your mana pool is sufficient.
-
-**Notable Utility**  
-- **[Light Shield](ca://s?q=Explain_Light_Shield)**  
-- **[Bless](ca://s?q=Explain_Bless_buff)**  
-- **[Death Ward](ca://s?q=Explain_Death_Ward)**  
-- **[Saving Grace](ca://s?q=Explain_Saving_Grace)**  
-- **[Bind](ca://s?q=Explain_Bind_spell)**  
-- **[Silence](ca://s?q=Explain_Silence_spell)**  
-- **[Dispel](ca://s?q=Explain_Dispel_spell)**  
-- **[Inspire](ca://s?q=Explain_Inspire_buff)**  
-
-These are not mandatory but extremely helpful in group play.
-
-**High‑Level Healing Tip**  
-Use **Divine Mending** as your primary heal and **Radiant** as your restore to reduce mana waste.  
-Radiant is more efficient **if** you are consistently healing its full value.
+### 2.4.3 Cleric Builds
+* **Healer Build:** Focuses on Intelligence and Wisdom to maximize healing output, mana efficiency, and supportive utility. This is the strongest and most commonly used Cleric build, making it indispensable for instances, bosses, and high-level group content.
+* **Consecrate DPS Build:** Focuses on Strength while utilizing Imbue and Consecrate to deal respectable area damage during the early and mid game. Although effective for leveling and farming, its damage falls behind other classes at higher levels and is generally transitioned into a full healer build.
+* **Tank Cleric Build:** Focuses on Constitution to increase survivability while maintaining access to the Cleric's powerful healing and utility toolkit. This build is well suited for players who frequently find themselves under pressure or serving as an off-tank in smaller groups.
+* **Support Build:** Invests in utility spells such as Sanctuary, Death Ward, Saving Grace, Light Shield, Purify, Dispel, and Inspire to maximize party survivability and control. While every Cleric naturally provides support, this approach emphasizes utility over personal damage.
+* **Build Priority:** Prioritize unlocking higher healing spells, Consecrate, and core utility abilities before investing in niche or DPS-oriented skills. As you progress into the late game, transitioning toward a full healing build provides the greatest benefit to both you and your group.
 
 
 ---
 
-### 2.4.3 Cleric Build Purposes
-Cleric is very cookie‑cutter, so here are the main builds:
-
-1. **Tank Build** — Focuses on Con
-   High vita build made to take high damage.
-
-2. **DPS build** — Focuses on Str/Dex.  
-   Used for soloing or groups lacking DPS.  
-
-3. **Healer build** — Focuses on Int/Wis.  
-   Heals, buffs, group heal, heal over time.<br>
-
----
 ## 2.5 Monk
-Monks use gloves to fight with their fists. They function primarily as tank, healer, or dps.
 
-* **Role:** Exceptional support with strong healing and powerful group utility.
-* **Solo Performance:** Depends on build. Healing is highly efficient for most content, but damage output is currently the 4th weakest overall. 
-* **Maintenance:** Low upkeep and simple rotations, with most value coming from buffs and support tools.
-* **Scaling:** Benefits from Wis, supportive gear, and utility‑focused stat choices.
-* **Notes:** Fire (DPS) builds fall off quickly; outside early levels, consider them non‑viable for now.
+### 2.5.1 Monk Overview
+Monks are versatile martial artists capable of filling the roles of tank, healer, or damage dealer through their unique stance-based combat system. By switching between Tidal, Radiant, and Searing Stances, they can adapt to the needs of nearly any group while providing exceptional utility, survivability, and support. Although their damage-focused playstyle falls behind other classes in the late game, Monks remain highly valued for their powerful buffs, efficient healing, and durable frontline presence. Their straightforward mechanics and flexibility make them an excellent choice for players who enjoy supporting their team while remaining actively involved in combat.
 
 
 ---
 
-### 2.5.1 Comprehensive Monk Spell List
+### 2.5.2 Monk Spell List
 <details>
 <summary><b>Click to expand Monk Spells</b></summary>
 
@@ -665,217 +541,10 @@ Monks use gloves to fight with their fists. They function primarily as tank, hea
 
 ---
 
-### 2.5.2 Building Monk
-Searing Stance:  
-Pros: High damage output, decent survivability.<br>
-Cons: Will need a group with tank or healer in endgame.<br>
-
-Radiant Stance:  
-Pros: Group healing, and healing over time. High survivability.<br>
-Cons: No damage output.. Must have a group.<br>
-
-Tidal Stance:
-Pros: Very tanky. Can taunt and heal. Immortal.<br>
-Cons: Slow dps. Works great in group.<br>
-
----
-
-### 2.5.3 Monk Build Purposes
-**Radiant** — Designed to heal and shield allies.  
-**Tidal** — Designed to taunt ads and take damage, allowing teammates to deal damage.  
-**Searing** — Designed to deal massive ammounts of damage.
-
-Hybrid builds are not really possible, given that each set of spells can only be cast while in a particular stance.  
-
-By level 80, you can take a full light build, Monsoon, and most of the fire kit by building past Transcendence Str requirements.
-
-Overall, monk complexity is low — effectiveness depends more on group composition than rotation.
-
-
-
-## 2.6 Group Strategy
-This section defines how classes function with other classes in different scenarios.
-
----
-
-## 2.6.1 Duo
-For duo play, synergy and scalability matter most. Success comes from understanding how your classes interact and how their strengths complement each other.
-
-* **Core Focus:** Positioning, coordination, and proper use of class abilities.
-* **Skill Requirement:** Knowing your spells and how they pair with your partner’s toolkit.
-* **Progression:** Once synergy is established, specific notes are provided for each cave to guide optimal routing and strategy.
-
-
-### Strong Synergy
-
-**1. Ranger + Ranger**  
-At high level, two rangers can outperform cleric + guardian.  
-Requires strong coordination.  
-Starts strong because objectives align and damage is doubled compared to soloing.
-
-**2. Cleric + Guardian**  
-Easiest and most capable pairing.  
-Slow/safe start with tremendous DPS potential at higher levels.
-
-**3. Monk + Wizard**  
-Auto‑healing is enough.  
-A tank that increases your damage is unbeatable for the slot.  
-Wizard at peak performance with this pairing can outscale ranger.
-
-**4. Monk + Ranger**  
-Auto‑healing is enough for ranger.  
-Monk can block, tank, give 20% damage buff, and sustain itself.  
-Closest rival to cleric + guardian for general duo play.
-
----
-
-### Moderate Synergy
-
-**1. Guardian + Ranger**  
-Defensive‑mode tank taunting everything + strong DPS.  
-No healer needed.
-
-**2. Cleric + Ranger**  
-Ranger benefits greatly from **Inspire**, enabling burst resource usage.  
-Speeds up early cave clears.
-
-**3. Monk + Guardian**  
-Solid at high levels, weaker at low levels.
-
-**4. Cleric + Wizard**  
-Cleric is a strong safety net.  
-Wizard cannot restore mana when fully surrounded; cleric healing saves mana and increases DPS consistency.
-
----
-
-### Low Synergy / Everything Else
-Most other pairings are not very good, but still playable if needed.
-
----
-
-### Notable Caves
-**Bear boss room** — Likely need a healer and at least 4k HP.  
-**Wolf boss room** — Doable with any duo via kiting and aggro shifting.  
-**Swamp instance** — Recommended only for cleric + guardian at level 75+.  
-Everything else is simple enough.
-
----
-
-## 2.6.2 Trio
-A simple tiering system:
-
-**Buff** = Monk  
-**DPS (Tank)** = Late‑game Guardian  
-**Heal** = Monk / Cleric  
-**Tank** = Guardian / Monk  
-**DPS** = Wizard / Guardian / Ranger
-
-### Trio Tier List
-
-| Composition | Tier | Notes |
-| :--- | :--- | :--- |
-| **DPS(Tank) + DPS + Buff** | S+ | General hunting |
-| **DPS(Tank) + DPS + Heal** | S+ | Of‑level or instance caves |
-| **DPS + DPS + DPS** | S‑ | General hunting |
-| **Tank + DPS + Heal** | A+ | General hunting & instances |
-| **DPS + DPS + Tank** | A‑ | General hunting |
-| **Buff + Heal + DPS** | B+ | General hunting |
-| **Buff + Heal + Tank** | B‑ | General hunting & instances |
-| **Tank + Tank + DPS** | C+ | General hunting |
-| **Tank + Tank + Tank** | D‑ | General hunting |
-| **Heal/Buff only comps** | F‑ | Non‑functional |
-
-Additional notes:  
-Three clerics can clear low‑level rooms.  
-Two clerics + water monk can also clear.  
-But these are far below optimal.  
-Fire monk has less DPS than a solo guardian in defensive stance.  
-Cleric has even less DPS than fire monk.
-
----
-
-## 2.6.3 Large Group
-A “full group” is generally 5 players, but larger groups are possible.  
-Below are optimal 5‑player teams.
-
-### Optimal Teams of 5
-
-**1. Guardian + Ranger + Wizard + Cleric + Water Monk**  
-Undisputed strongest team at higher levels.
-
-**2. Guardian + Wizard + Wizard + Cleric + Water Monk**  
-Can outscale the above if both wizards are highly skilled.
-
-**3. Guardian + Ranger + Ranger + Cleric + Water Monk**  
-Strong only if rangers have excellent coordination.
-
-**4. Guardian + Cleric + 3 DPS**  
-Most common “ragtag” team; standard and decent.
-
----
-
-### General Rules for Larger Groups
-- Only **1 water monk** is needed to buff everyone.  
-- Only **1 tank** is needed to keep the group safe.  
-- Only **1 healer** is required to heal the tank; others should self‑sustain.  
-- More DPS = more rooms cleared = higher EXP/hour multiplier.
-
-This does **not** mean you should reject extra monks, tanks, or healers.  
-It simply means that, in theory, additional support roles do not increase group output.
-
-* **Note: Additional berserkers may require additional healers.**
-
----
-
-## 2.7 Specific Tier Lists
-In this section we will cover individual unit tier lists.
-
----
-
-### Solo DPS ranking
-| Class | Tier | Notes |
-| :--- | :--- | :--- |
-| **Ranger** | S+ | Easiest to achieve high dps with solo |
-| **Wizard** | A | Very difficult solo in of-level caves |
-| **Guardian** | B | Higher cost and lower performance |
-| **Cleric** | C | Low cost, not difficult, but not strong |
-| **Monk** | D | 2nd most expensive, very difficult, not strong |
-
-* **Note: A very skilled wizard can do similar or more dps compared to ranger.**
-
----
-
-### Group DPS ranking for individual unit
-| Class | Tier | Notes |
-| :--- | :--- | :--- |
-| **Guardian** | S+ | Berserk, Decimate, Wind strike, Frenzy No.1 DPS |
-| **Wizard** | A+ | Easily 2nd strongest if using entire kit |
-| **Ranger** | A- | 3rd yet still quite strong with great scaling potential. |
-| **Monk** | C | Not very strong at all even with a cleric in duo situations. |
-| **Cleric** | D | Low dps, not dynamic enough for group play. |
-
-* **Note: Ranger with higher level weapons could flip the scale significantly.**
-
----
-
-### Healer ranking
-| Class | Tier | Notes |
-| :--- | :--- | :--- |
-| **Cleric** | S+ | By far the most powerful and potent healer |
-| **Monk** | B+ | Not bad at all, but it can't do what cleric does |
-
-
-* **Note: For general duo situations monk is a very solid healer. Just don't expect to duo the hardest content.**
-
----
-
-### Support ranking
-| Class | Tier | Notes |
-| :--- | :--- | :--- |
-| **Monk** | S+ | 20% damage buff for the entire group? Can't beat that |
-| **Cleric** | B | Buffs are overall minor, but can situationally be useful with other utility |
-| **Wizard** | D | Currently not useful for the average scenario |
-
+### 2.5.3 Monk Builds
+* **Searing Stance:** Focuses on fast attacks, high mobility, and sustained physical damage through different combos and techniques. Excels at quickly closing gaps, chaining abilities together, and overwhelming enemies with rapid strikes. Best suited for players who enjoy an aggressive, high-action playstyle.
+* **Tidal Stance:** Prioritizes survivability through defensive skills, damage reduction, and crowd control abilities. Designed to absorb enemy attacks while protecting allies and controlling the battlefield. Ideal for players who prefer a durable frontline role.
+* **Radiant Stance:** Focuses on restoring health, providing buffs, and enhancing the effectiveness of allies. Uses spiritual abilities to cleanse negative effects, increase team performance, and provide utility. Strong choice for group-based content where teamwork and survivability are important.
 
 
 ---
