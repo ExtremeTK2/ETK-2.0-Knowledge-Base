@@ -17,6 +17,7 @@ It covers classes, crafting, minigames, group strategy, and progression.<br>
     * [1.4 Places of Interest](#14-places-of-interest)
     * [1.5 Additional Features](#15-additional-features)
     * [1.6 Clans](#16-clans)
+    * [1.7 Auction House](#17-auction-house)
 * [2.0 Classes, Builds, and Strategies](#20-classes-builds-and-strategies)
     * [2.1 Guardian](#21-guardian)
     * [2.2 Ranger](#22-ranger)
@@ -210,6 +211,18 @@ Clan management at the Registrar: invite members (invitees accept at the Registr
 
 Ranks: Leader, Officer (can edit the hall, invite and kick), and Member.
 
+## 1.7 Auction House
+
+The Auction House is now open! You can find the Auctioneer at the inn. He will be the left-most NPC in there. Here are a few important things to know.
+
+List items with a starting bid, optional buy-it-now price, and a duration of 12 hours up to 1 week. 
+Browse with search, category and rarity filters, and sorting by price, time left, name, level, or rarity.
+Bidding escrows your gold immediately — if you're outbid, it's returned to the Collect tab.
+Bids in the final 5 minutes extend the auction by 5 minutes, so no buzzer sniping.
+Sold auctions pay out to the Collect tab (minus a 5% house cut) — won items and expired/cancelled listings are picked up there too.
+Listing deposit: 0.25% of the starting bid per day listed (min 50 coins, nonrefundable).
+The My Auctions tab shows everything you're selling or currently winning; unsold auctions can be cancelled before the first bid.
+Bonded items cannot be auctioned
 
 
 ## 2.0 Classes, Builds, and Strategies
