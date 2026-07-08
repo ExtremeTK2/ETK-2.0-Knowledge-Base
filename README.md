@@ -243,6 +243,7 @@ This section provides comprehensive information for each class. Group mechanics 
 
 ## 2.1 Guardian
 
+
 ### 2.1.1 Guardian Overview
 Guardians are durable frontline fighters who specialize in protecting their allies while delivering some of the highest sustained group damage in the game. Armed with powerful melee attacks, defensive stances, and threat-generating abilities, they excel at controlling enemies and keeping dangerous encounters focused on themselves. Although they can be challenging to level solo due to high repair costs and lower efficiency compared to some other classes, Guardians become indispensable in group content, where their survivability, utility, and scaling with Strength, Constitution, Vita, and weapon damage allow them to thrive. Whether serving as an unbreakable tank or an aggressive damage dealer, Guardians are a cornerstone of successful party compositions.
 
@@ -292,6 +293,7 @@ Guardians are durable frontline fighters who specialize in protecting their alli
 
 </details>
 
+
 ### 2.1.3 Guardian Builds
 * **Defensive Tank Build:** Focuses on Constitution and survivability to maximize threat generation, self-healing, and damage mitigation. This is the preferred build for tanking instances, bosses, and challenging content.
 * **Offensive DPS Build:** Focuses on Strength, Vita, and weapon damage to maximize sustained melee DPS. While capable of excellent damage output, it sacrifices durability and is best suited for over-leveled solo content or group play with a dedicated healer.
@@ -303,12 +305,13 @@ Guardians are durable frontline fighters who specialize in protecting their alli
 
 
 ---
+
 ## 2.2 Ranger
+
 
 ### 2.2.1 Guardian Overview
 Rangers are highly mobile damage dealers who excel at clearing groups of enemies through powerful ranged attacks, poison effects, and area-of-effect abilities. Their exceptional sustained damage, low maintenance costs, and strong scaling with Dexterity, weapon damage, and positioning make them one of the strongest classes for solo progression and an invaluable addition to any group. While archery is currently the dominant playstyle for PvE, Rangers also have access to traps, mobility skills, and utility abilities that reward strategic planning and battlefield awareness. Mastering positioning, poison management, and ability timing allows Rangers to consistently deliver some of the highest damage output in the game.
 
----
 
 ### 2.2.2 Ranger Spell List
 <details>
@@ -349,11 +352,9 @@ Rangers are highly mobile damage dealers who excel at clearing groups of enemies
 | **Melee Specialization I-II** | I: S45 D25 C18<br>II: S100 D50 C30 | Ramping melee damage per swing (does not work with bows). |
 | **Charged Shot I-III** | I: I28 D68 C18<br>II: I42 D92 C25<br>III: I60 D150 C35 | Charge up to 5s; affects a square around the target; activated by swing/shot. |
 
-
 Rages require str+con **OR** dex+con, not both.
 </details>
 
----
 
 ### 2.2.3 Ranger Builds
 * **Archer Build:** Focuses on bows, Volley, Shatter Arrow, and Charged Shot to deal exceptional ranged AoE damage. This is the strongest and most popular PvE build, offering outstanding clear speed while rewarding good positioning and mobility.
@@ -366,11 +367,10 @@ Rages require str+con **OR** dex+con, not both.
 
 ## 2.3 Wizard
 
+
 ### 2.3.1 Wizard Overview
 Wizards are masters of elemental magic, capable of unleashing devastating area-of-effect damage while controlling the battlefield with powerful offensive and utility spells. With access to the largest arsenal of AoE abilities in the game, they excel at clearing large groups of enemies and can produce exceptional damage when their abilities are used in the proper sequence. Although Wizards are among the most fragile classes due to their low defenses, skilled players can overcome this weakness through careful positioning, crowd control, and effective resource management. Whether specializing in traditional Elementalist magic or experimenting with the Enchanter playstyle, Wizards reward strategic decision-making and precise execution with some of the highest damage potential in the game.
 
-
----
 
 ### 2.3.2 Wizard Spell List
 <details>
@@ -416,7 +416,6 @@ Wizards are masters of elemental magic, capable of unleashing devastating area-o
 | **Deep Freeze** | I62 D45 W38 | Targetable spell that shatters damage in a square around the target when it takes damage. |
 </details>
 
----
 
 ### 2.3.3 Wizard Builds
 * **Electric Build:** Focuses on the Zap spell line, Conduit, Thunderstorm, and high Intelligence and Wisdom to maximize single-target damage, critical hits, and sustained DPS. This build excels against priority targets and provides consistent damage output with excellent mana efficiency.
@@ -433,7 +432,6 @@ Wizards are masters of elemental magic, capable of unleashing devastating area-o
 ### 2.4.1 Cleric Overview
 Clerics are the premier healing class, providing unmatched sustain, powerful defensive support, and invaluable utility to any group. While they have access to offensive spells and can level effectively as a damage dealer early on, their greatest strength lies in keeping allies alive through potent heals, protective buffs, and lifesaving abilities. With excellent mana management tools and a versatile support kit, Clerics are essential for tackling the game's most challenging dungeons and boss encounters. Whether restoring massive amounts of health, preventing fatal damage, or empowering their party with utility spells, Clerics serve as the backbone of nearly every successful group composition.
 
----
 
 ### 2.4.2 Cleric Spell List
 <details>
@@ -471,7 +469,6 @@ Clerics are the premier healing class, providing unmatched sustain, powerful def
 | **Empyrean Grace** | D24 C46 I190 W36 | Stronger heal than Celestial Mending. |
 </details>
 
----
 
 ### 2.4.3 Cleric Builds
 * **Healer Build:** Focuses on Intelligence and Wisdom to maximize healing output, mana efficiency, and supportive utility. This is the strongest and most commonly used Cleric build, making it indispensable for instances, bosses, and high-level group content.
@@ -485,11 +482,10 @@ Clerics are the premier healing class, providing unmatched sustain, powerful def
 
 ## 2.5 Monk
 
+
 ### 2.5.1 Monk Overview
 Monks are versatile martial artists capable of filling the roles of tank, healer, or damage dealer through their unique stance-based combat system. By switching between Tidal, Radiant, and Searing Stances, they can adapt to the needs of nearly any group while providing exceptional utility, survivability, and support. Although their damage-focused playstyle falls behind other classes in the late game, Monks remain highly valued for their powerful buffs, efficient healing, and durable frontline presence. Their straightforward mechanics and flexibility make them an excellent choice for players who enjoy supporting their team while remaining actively involved in combat.
 
-
----
 
 ### 2.5.2 Monk Spell List
 <details>
@@ -537,7 +533,6 @@ Monks are versatile martial artists capable of filling the roles of tank, healer
 
 </details>
 
----
 
 ### 2.5.3 Monk Builds
 * **Searing Stance:** Focuses on fast attacks, high mobility, and sustained physical damage through different combos and techniques. Excels at quickly closing gaps, chaining abilities together, and overwhelming enemies with rapid strikes. Best suited for players who enjoy an aggressive, high-action playstyle.
@@ -546,6 +541,7 @@ Monks are versatile martial artists capable of filling the roles of tank, healer
 
 
 ---
+
 ## 3.0 Crafting Systems
 This section elaborates every crafting system in full.
 
