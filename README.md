@@ -215,14 +215,14 @@ Ranks: Leader, Officer (can edit the hall, invite and kick), and Member.
 
 The Auction House is now open! You can find the Auctioneer at the inn. He will be the left-most NPC in there. Here are a few important things to know.
 
-List items with a starting bid, optional buy-it-now price, and a duration of 12 hours up to 1 week. 
-Browse with search, category and rarity filters, and sorting by price, time left, name, level, or rarity.
-Bidding escrows your gold immediately — if you're outbid, it's returned to the Collect tab.
-Bids in the final 5 minutes extend the auction by 5 minutes, so no buzzer sniping.
-Sold auctions pay out to the Collect tab (minus a 5% house cut) — won items and expired/cancelled listings are picked up there too.
-Listing deposit: 0.25% of the starting bid per day listed (min 50 coins, nonrefundable).
-The My Auctions tab shows everything you're selling or currently winning; unsold auctions can be cancelled before the first bid.
-Bonded items cannot be auctioned
+List items with a starting bid, optional buy-it-now price, and a duration of 12 hours up to 1 week.<br>
+Browse with search, category and rarity filters, and sorting by price, time left, name, level, or rarity.<br>
+Bidding escrows your gold immediately — if you're outbid, it's returned to the Collect tab.<br>
+Bids in the final 5 minutes extend the auction by 5 minutes, so no buzzer sniping.<br>
+Sold auctions pay out to the Collect tab (minus a 5% house cut) — won items and expired/cancelled listings are picked up there too.<br>
+Listing deposit: 0.25% of the starting bid per day listed (min 50 coins, nonrefundable).<br>
+The My Auctions tab shows everything you're selling or currently winning; unsold auctions can be cancelled before the first bid.<br>
+Bonded items cannot be auctioned.
 
 
 ## 2.0 Classes, Builds, and Strategies
