@@ -266,24 +266,24 @@ Guardians use swords and are currently the highest group-oriented DPS in the gam
 | **Desolation** | S105 C65 | 6th rage |
 | **Cataclysm** | S118 C78 | 7th rage |
 | **Apocalypse** | S160 C100 | 8th rage. |
-| **Healing Spells** | | |
+| ***Healing Spells*** | | |
 | **Second Wind** | C8 | Lowest self-heal |
 | **Steel Mend** | C35 W8 | 2nd self-heal |
 | **Battle Mend** | C72 W18 | 3rd self-heal |
 | **Unbreakable** | C105 W28 | 4th self-heal |
 | **Titan Mend** | C130 W35 | Massive self-heal. Convert your fury into flesh. Replaces Battle Mend. |
-| **Stance Spells** | | |
+| ***Stance Spells*** | | |
 | **Defensive Stance** | C25 | 15% reduced dmg taken; swings debuff target dmg by 25% for 6s; hits in a square |
 | **Offensive Stance** | S28 D12 | +25% swing dmg; receive 15% more dmg; 40% reduced self-heal; hits in a square |
-| **Vita Attacks** | | |
+| ***Vita Attacks*** | | |
 | **Slice** | S30 D18 | Costs 5% HP to deal 8% Vita +10 (Offensive only) |
 | **Decimate I-II** | I: S55 D28<br>II: S130 D55 | Catastropic vita attack. Costs significant HP. Requires Offensive Stance. |
 | **Wind Strike** | S72 D42 | Costs 30% HP; Vita attack all 4 adjacent tiles; 35% Vita + Str scaling + 0.5x weapon dmg (Offensive only) |
 | **Berserk** | S95 D55 C32 | 30s duration; auto-casts Slice (50%), Decimate (30%), Wind Strike (20%) (Offensive only) |
-| **Taunt Spells** | | |
+| ***Taunt Spells*** | | |
 | **Taunt** | S5 C6 | Single target taunt scaling with Str, Vita, and level |
 | **Battle Shout** | S25 C52 | AoE taunt; threat scales with Str/Con and rage consumed |
-| **Additional Spells** | | |
+| ***Additional Spells*** | | |
 | **Ground Slam I-II** | I: S78 D35 C18<br>II: S150 D60 C40 | 5x3 AoE; Scales with STR and weapon damage. Requires Offensive Stance. |
 | **Righteousness** | S10 C22 | 3x threat rate buff; additional threat with higher Str |
 | **Enrage** | W14 C18 | Rage regeneration for 20s; scales with all stats |
