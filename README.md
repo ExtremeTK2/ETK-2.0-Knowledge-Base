@@ -229,6 +229,8 @@ This section provides comprehensive information for each class. Group mechanics 
 ---
 
 ## 2.1 Guardian
+
+### 2.1.1 Intro to Guardians
 Guardians use swords and are currently the highest group-oriented DPS in the game.
 
 * **Role:** Necessary as tanks for some content.
@@ -242,6 +244,7 @@ Guardians use swords and are currently the highest group-oriented DPS in the gam
 
 | Spell Name | Requirements | Description |
 | :--- | :--- | :--- |
+| **Rages** | | |
 | **Smoldering Fury** | S8 C3 | 1st rage; amplifying swing dmg |
 | **Kindled Wrath** | S22 C12 | 2nd rage |
 | **Bloodrage** | S42 C25 | 3rd rage |
