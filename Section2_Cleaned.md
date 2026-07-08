@@ -65,7 +65,7 @@ Guardians are durable frontline fighters who specialize in protecting their alli
 
 </details>
 
-### 2.1.3 Builds
+### 2.1.3 Guardian Builds
 * **Defensive Tank Build:** Focuses on Constitution and survivability to maximize threat generation, self-healing, and damage mitigation. This is the preferred build for tanking instances, bosses, and challenging content.
 * **Offensive DPS Build:** Focuses on Strength, Vita, and weapon damage to maximize sustained melee DPS. While capable of excellent damage output, it sacrifices durability and is best suited for over-leveled solo content or group play with a dedicated healer.
 * **Hybrid Build:** Balances offensive and defensive stats to provide respectable damage while maintaining enough survivability for general hunting. This build offers flexibility but does not excel as either a dedicated tank or a pure DPS Guardian.
@@ -77,18 +77,13 @@ Guardians are durable frontline fighters who specialize in protecting their alli
 
 ---
 ## 2.2 Ranger
-Rangers use bows or daggers and rely on high AoE damage, mobility, and smart positioning to perform well.
 
-* **Defensive Tank Build:** Focuses on Constitution and survivability to maximize threat generation, self-healing, and damage mitigation. This is the preferred build for tanking instances, bosses, and challenging content.
-* **Offensive DPS Build:** Focuses on Strength, Vita, and weapon damage to maximize sustained melee DPS. While capable of excellent damage output, it sacrifices durability and is best suited for over-leveled solo content or group play with a dedicated healer.
-* **Hybrid Build:** Balances offensive and defensive stats to provide respectable damage while maintaining enough survivability for general hunting. This build offers flexibility but does not excel as either a dedicated tank or a pure DPS Guardian.
-* **Stance Selection:** Defensive Stance is recommended for difficult encounters, tanking, and most solo progression, while Offensive Stance provides significantly higher damage at the cost of reduced survivability and healing effectiveness.
-* **Build Priority:** Prioritize unlocking higher Rage spells, self-heals, and core utility abilities before investing heavily into offensive skills. These provide the greatest increase to both survivability and overall effectiveness throughout progression.
-
+### 2.2.1 Guardian Overview
+Rangers are highly mobile damage dealers who excel at clearing groups of enemies through powerful ranged attacks, poison effects, and area-of-effect abilities. Their exceptional sustained damage, low maintenance costs, and strong scaling with Dexterity, weapon damage, and positioning make them one of the strongest classes for solo progression and an invaluable addition to any group. While archery is currently the dominant playstyle for PvE, Rangers also have access to traps, mobility skills, and utility abilities that reward strategic planning and battlefield awareness. Mastering positioning, poison management, and ability timing allows Rangers to consistently deliver some of the highest damage output in the game.
 
 ---
 
-### 2.2.1 Comprehensive Ranger Spell List
+### 2.2.2 Comprehensive Ranger Spell List
 <details>
 <summary><b>Click to expand Ranger Spells</b></summary>
 
@@ -133,28 +128,11 @@ Rages require str+con **OR** dex+con, not both.
 
 ---
 
-### 2.2.2 Building Ranger
-Levels 1–20: Prioritize poison (**Envenom Weapon**) and spreading poison efficiently.  
-Levels 20–35: Pick QoL options like **Shatter Arrow**, **Fan of Knives**, **Soothe**, etc.  
-Levels 35+: Focus on reaching the stats for **Volley II** ASAP. Poison Trap + Volley II are the majority of Ranger DPS.  
-Levels 50+: Choose QoL based on playstyle.  
-- Solo often? Get a heal early.  
-- Group often? Prioritize next rage / Envenom IV.  
-
-By the late 70s you should have:  
-Dash, Rejuvenate, Dragon’s Wrath, Envenom IV, Volley II, Charged Shot II, and all traps.
-
-After that, you can invest into more Dex/Int for Volley/Poison damage or experiment with hybrid builds.
-
-Ranger progression is simple:  
-It poisons things, then it volleys and poisons things. It keeps doing that.
-
----
-
-### 2.2.3 Builds
-* **Priorities** Focus on getting Dragon's Wrath, and DPS skills for whichever build you choose.
-* **Archer Build:** Uses Volley and Shatter Arrow. The archer build offers high DPS from a ranged weapon (bow). Combined with Envenom, this a deadly build, but the trade-off is you have to keep moving. You can ambush your way out, but you take high ammounts of damage.
-* **Rogue Build:** Uses Eviscerate, Melee Specialization, & Fan of Knives. I have not personally played this build yet, since it's update on 7/4/26, but will update as I test or receive more info.
+### 2.2.3 Ranger Builds
+* **Archer Build:** Focuses on bows, Volley, Shatter Arrow, and Charged Shot to deal exceptional ranged AoE damage. This is the strongest and most popular PvE build, offering outstanding clear speed while rewarding good positioning and mobility.
+* **Rogue Build:** Focuses on daggers, Eviscerate, Fan of Knives, and Melee Specialization to deliver high burst damage in melee range. While the build has strong potential, it is currently less proven than the Archer build and requires careful positioning to maximize damage and survivability.
+* **Poison Build:** Prioritizes Envenom Weapon, Poison Trap, and poison-spreading abilities to steadily wear down enemies while enhancing the damage of your core attacks. Poison forms the backbone of nearly every Ranger build and should be upgraded as early as possible.
+* **Build Priority:** Prioritize unlocking higher Rage spells, Envenom Weapon, Volley, and your core utility skills before investing in optional abilities. Ranger damage scales heavily with poison application and Volley, making these the foundation of nearly every successful build.
 
 
 ---
