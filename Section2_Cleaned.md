@@ -17,14 +17,10 @@ This section provides comprehensive information for each class. Group mechanics 
 ## 2.1 Guardian
 
 ### 2.1.1 Guardian Overview
-Guardians use swords and are currently the highest group-oriented DPS in the game.
+Guardians are durable frontline fighters who specialize in protecting their allies while delivering some of the highest sustained group damage in the game. Armed with powerful melee attacks, defensive stances, and threat-generating abilities, they excel at controlling enemies and keeping dangerous encounters focused on themselves. Although they can be challenging to level solo due to high repair costs and lower efficiency compared to some other classes, Guardians become indispensable in group content, where their survivability, utility, and scaling with Strength, Constitution, Vita, and weapon damage allow them to thrive. Whether serving as an unbreakable tank or an aggressive damage dealer, Guardians are a cornerstone of successful party compositions.
 
-* **Role:** Necessary as tanks for some content.
-* **Solo Performance:** Ranked 3rd strongest/weakest solo; significantly outshined by Rangers and Wizards.
-* **Maintenance:** Repair bills are significantly higher than other classes, making soloing ultra-punishing.
-* **Scaling:** Group DPS is heavily influenced by Vita, Str, and weapon damage.
 
-### 2.1.2 Comprehensive Guardian Spell List
+### 2.1.2 Guardian Spell List
 <details>
 <summary><b>Click to expand Guardian Spells</b></summary>
 
