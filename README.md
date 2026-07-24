@@ -24,7 +24,7 @@ It covers classes, crafting, minigames, group strategy, and progression.<br>
     * [2.3 Wizard](#23-wizard)
     * [2.4 Cleric](#24-cleric)
     * [2.5 Monk](#25-monk)
-    * [2.6 Class Mastery & Transcendence](#26-class-mastery-&-transcendence)
+    * [2.6 Class Mastery & Transcendence](#26-class-mastery--transcendence)
 * [3.0 Crafting Systems](#30-crafting-systems)
     * [3.1 Mining & Smithing](#31-mining--smithing)
     * [3.2 Weaving & Tailor](#32-weaving--tailor)
