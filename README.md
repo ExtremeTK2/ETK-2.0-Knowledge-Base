@@ -546,6 +546,8 @@ Monks are versatile martial artists capable of filling the roles of tank, healer
 
 ## 2.6 Class Mastery & Transcendence
 
+**Class Mastery**
+
 Congratulations! You have reached level 99. Now what?! Head on over to the Library or Manor and find your Path Leader to master your class. Doing so, will require a one-time sacrifice of 300m experience. The Path Leaders are as follows:
 
 | Path | Leader | Location |
