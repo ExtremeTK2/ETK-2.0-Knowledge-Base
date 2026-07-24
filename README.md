@@ -24,6 +24,7 @@ It covers classes, crafting, minigames, group strategy, and progression.<br>
     * [2.3 Wizard](#23-wizard)
     * [2.4 Cleric](#24-cleric)
     * [2.5 Monk](#25-monk)
+    * [2.6 Class Mastery & Transcendence](#26-class-mastery-&-transcendence)
 * [3.0 Crafting Systems](#30-crafting-systems)
     * [3.1 Mining & Smithing](#31-mining--smithing)
     * [3.2 Weaving & Tailor](#32-weaving--tailor)
@@ -540,6 +541,35 @@ Monks are versatile martial artists capable of filling the roles of tank, healer
 * **Tidal Stance:** Prioritizes survivability through defensive skills, damage reduction, and crowd control abilities. Designed to absorb enemy attacks while protecting allies and controlling the battlefield. Ideal for players who prefer a durable frontline role.
 * **Radiant Stance:** Focuses on restoring health, providing buffs, and enhancing the effectiveness of allies. Uses spiritual abilities to cleanse negative effects, increase team performance, and provide utility. Strong choice for group-based content where teamwork and survivability are important.
 
+
+---
+
+## 2.6 Class Mastery & Transcendence
+
+Congratulations! You have reached level 99. Now what?! Head on over to the Library or Manor and find your Path Leader to master your class. Doing so, will require a one-time sacrifice of 300m experience. The Path Leaders are as follows:
+
+| Path | Leader | Location |
+| :--- | :--- | :--- |
+| Guardian | Beom-Seok | Seonhwa Council |
+| Wizard | Eun-Ae | Seonhwa Council |
+| Monk | Tae-Sung | Seonhwa Courtyard |
+| Cleric | Seul-Ki | Library
+| Ranger | Yoo-Ri | Manor East Wing |
+
+Once you have mastered your class, you'll want to go to the Hall of Rites and speak with Hae-Rin. Here you can sell/trade experience for stats/vita/mana. Please note that Guardians, Rangers, and Monks **CANNOT** sell for "mana", but only stats and vita. Each class can only sell for 100 additional stat points, after which only vita or mana will be purchasable.
+
+**Transcendence**
+
+You can also transcend your power by attuning to Yeonghwa's Aspect. To do this, you must recover a Pillar Fragment from a group boss. Each class has multiple Aspects, and you can reforge to a different one later with another Fragment.
+
+| Class | Aspect | Description |
+| :--- | :--- | :--- |
+| Wizard | the Open Flame | + damage as a caster |
+| Wizard | the Ember Blade | + damage as a spellblade (Mana Infuse active) |
+| Guardian |  |  |
+| Ranger |  |  |
+| Cleric |  |  |
+| Monk |  |  |
 
 ---
 
