@@ -568,7 +568,8 @@ You can also transcend your power by attuning to Yeonghwa's Aspect. To do this, 
 | :--- | :--- | :--- |
 | Wizard | the Open Flame | + damage as a caster |
 | Wizard | the Ember Blade | + damage as a spellblade (Mana Infuse active) |
-| Guardian |  |  |
+| Guardian | the Advancing Wall | + damage in Offensive Stance |
+| Guardian | the Unbroken Wall | + mitigation & threat in Defensive Stance |
 | Ranger |  |  |
 | Cleric |  |  |
 | Monk |  |  |
