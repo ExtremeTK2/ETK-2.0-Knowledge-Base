@@ -1069,7 +1069,7 @@ Winning team (20%), Losing team (10%).
   - **Mountain Bow**     -New Ranger weapon
   - **Manablade**        -New Cleric/Wizard fighter weapon
 
-  **Boss has a new ultra rare drop, still unknown.**
+  **Boss drops Flameblade (ultra-rare)**
 
 ---
 
