@@ -1048,8 +1048,7 @@ Winning team (20%), Losing team (10%).
 | All rooms except LR  | 55 | Cave Hermit, Cave Dweller, Cave Denizen, Cave Creature(First boss room, beware of SC & HF, high dmg) |
 | Last Room  | 60 | Cave Mutant (Second boss room, beware of SC & HF, high dmg, reportedly hits 10k on sc & sanc) |
 
-*   **The yellow boss drops Spiked Club, a lvl 65 weapon with 200k dura, and 100+min 200+max.**
-*   **The red boss drops are still unknown.**
+*   **Both bosses drop Spiked Club, a lvl 65 weapon with 200k dura, and 100+min 200+max.**
 
 ---
 
