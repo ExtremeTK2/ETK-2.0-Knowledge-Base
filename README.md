@@ -1061,9 +1061,9 @@ Instances are a "dungeon-like" cave, that is very challenging. As of now, there 
 
 ### Swamp Instance
 
-| Area            | Level | Monsters |
-| :-------------- | :---- | :------- |
-| Swamp Instance  | 50    | —        |
+| Area | Level | Monsters |
+| :--- | :--- | :--- |
+| Desolate Swamp | 50 |  |
 
 **Mechanics & Threats**
 - Snakes apply **Armor Curse**, **Doze**, and have a ranged attack.
