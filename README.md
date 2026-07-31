@@ -1083,7 +1083,7 @@ Instances are a "dungeon-like" cave, that is very challenging. As of now, there 
 
 | Area | Level | Monsters |
 | :--- | :--- | :--- |
-| Fiery Depths  | 75 |  |
+| Fiery Depths  | 75 | Flame Giun, Fire Elemental, Fire Wisp, ???? |
 
 **Mechanics & Threats**
 - Many of the enemies cast **Fissure** on you which does several thousand damage. Recommend keeping Sanctuary active at **ALL** times.
