@@ -1091,7 +1091,7 @@ Instances are a "dungeon-like" cave, that is very challenging. As of now, there 
 - This cave generally requires at least a healer and a tank.
 
 **Loot**
-- Any monster can drop **Lava Walker (boots)c**, **Lava Helms**, and maybe more to come.
+- Any monster can drop **Lava Walkers**, **Lava Helm**, and maybe more to come.
 - The boss can drop:
   - **Lava Bow**
   - **???**
