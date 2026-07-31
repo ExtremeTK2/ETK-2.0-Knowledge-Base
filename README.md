@@ -39,9 +39,9 @@ It covers classes, crafting, minigames, group strategy, and progression.<br>
     * [5.2 FAQ](#52-faq)
     * [5.3 Minigames](#53-minigames)
     * [5.4 Cave Chart](#54-cave-chart)
-    * [5.5 Instances](#54-instances)
-    * [5.6 Gear Lists](#55-gear-lists)
-    * [5.7 Additional Resources](#56-additional-resources)
+    * [5.5 Instances](#55-instances)
+    * [5.6 Gear Lists](#56-gear-lists)
+    * [5.7 Additional Resources](#57-additional-resources)
 ---
 
 ## 1.0 Introduction to the ETK2 Alpha Test
