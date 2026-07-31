@@ -1067,6 +1067,8 @@ Instances are a "dungeon-like" cave that is very challenging. As of now, there a
 - Rangers... shoot everything that's already moving.
 - Monks... just do what monks do.
 
+---
+
 ### Swamp Instance
 
 | Area | Level | Monsters |
