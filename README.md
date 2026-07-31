@@ -1091,19 +1091,19 @@ Instances are a "dungeon-like" cave that is very challenging. As of now, there a
 
 | Area | Level | Monsters |
 | :--- | :--- | :--- |
-| Fiery Depths  | 75 | Flame Giun, Fire Elemental, Fire Wisp, ???? |
+| Fiery Depths  | 75 | Flame Giun, Fire Elemental, Fire Wisp, Flame Lizard |
 
 **Mechanics & Threats**
 - Many of the enemies cast **Fissure** on you inflicting several thousand damage.
-- Fire Wisps apply **Armor Curse**, **Doze**, and have a ranged attack. You will need 
+- Fire Wisps apply **Armor Curse**, **Doze**, and have a ranged attack.
 - This cave generally requires at least a healer and a tank.
 
 **Loot**
 - Any monster can drop **Lava Walkers**, **Lava Helm**, and maybe more to come.
 - The boss can drop:
   - **Lava Bow**
-  - **???**
-  - **???**
+  - **Flamelash**
+  - **Lava Orb Staff**
   - **???**
 
 ---
