@@ -1023,26 +1023,6 @@ Winning team (20%), Losing team (10%).
 *   **Boss drops Packleader Helm.**
 
 ---
-### Swamp Instance
-
-| Area            | Level | Monsters |
-| :-------------- | :---- | :------- |
-| Swamp Instance  | 50    | —        |
-
-**Mechanics & Threats**
-- Snakes apply **[Armor Curse (SC)](ca://s?q=Explain_Armor_Curse_SC)**, use **[Doze](ca://s?q=Explain_Doze_effect)**, and have a ranged attack.
-- This cave generally requires at least **[a healer](ca://s?q=Best_healer_for_Swamp_Instance)** and **[a tank](ca://s?q=Best_tank_for_Swamp_Instance)**.
-- Ideally run with a **full team of 5** for safety and speed.
-
-**Loot**
-- Any monster can drop **Swamp Shields**, **Swamp Helms**, and **Swamp Rings**.
-- The boss can drop:
-  - **Swamp Staff**
-  - **Swamp Mitts**
-  - **Swamp Sword**
-  - **Swamp Bow**
-
----
 ### Seonhwa Mines
 
 | Area            | Level | Monsters |
@@ -1076,6 +1056,47 @@ Winning team (20%), Losing team (10%).
 ---
 
 ## 5.5 Instances
+
+Instances are a "dungeon-like" cave, that is very challenging. As of now, there are 2 different instances available. All instances are recommended to be run with a **full team of 5** for safety and speed.
+
+### Swamp Instance
+
+| Area            | Level | Monsters |
+| :-------------- | :---- | :------- |
+| Swamp Instance  | 50    | —        |
+
+**Mechanics & Threats**
+- Snakes apply **Armor Curse**, **Doze**, and have a ranged attack.
+- This cave generally requires at least a healer and a tank.
+
+**Loot**
+- Any monster can drop **Swamp Shields**, **Swamp Helms**, and **Swamp Rings**.
+- The boss can drop:
+  - **Swamp Staff**
+  - **Swamp Mitts**
+  - **Swamp Sword**
+  - **Swamp Bow**
+ 
+---
+
+### Lava Instance
+
+| Area | Level | Monsters |
+| :--- | :--- | :--- |
+| Fiery Depths  | 75 |  |
+
+**Mechanics & Threats**
+- Many of the enemies cast **Fissure** on you, and does several thousand damage.
+- Fire Wisps apply **Armor Curse**, **Doze**, and have a ranged attack.
+- This cave generally requires at least a healer and a tank.
+
+**Loot**
+- Any monster can drop **Lava Walker (boots)c**, **Lava Helms**, and maybe more to come.
+- The boss can drop:
+  - **Lava Bow**
+  - **???**
+  - **???**
+  - **???**
 
 ---
 
