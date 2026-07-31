@@ -1030,7 +1030,7 @@ Winning team (20%), Losing team (10%).
 | All rooms except LR  | 55 | Cave Hermit, Cave Dweller, Cave Denizen, Cave Creature(First boss room, beware of SC & HF, high dmg) |
 | Last Room  | 60 | Cave Mutant (Second boss room, beware of SC & HF, high dmg, reportedly hits 10k on sc & sanc) |
 
-*   **Both bosses drop Spiked Club, a lvl 65 weapon with 200k dura, and 100+min 200+max.**
+*   **Both bosses drop Spiked Club, a level 65 weapon with 200k dura, and 100+min 200+max.**
 
 ---
 
@@ -1041,7 +1041,7 @@ Winning team (20%), Losing team (10%).
 | First 3 rooms going south at least | 65 | Some Thick Mobs|
 | Rooms further south  | 70 | Even more thick mobs |
 
-* **Note: This cave is dangerous, boss is very dangerous.**
+* **Note: This cave is dangerous, and the boss is even more dangerous.**
 
 **Loot**
 - Any monster can drop
@@ -1057,7 +1057,15 @@ Winning team (20%), Losing team (10%).
 
 ## 5.5 Instances
 
-Instances are a "dungeon-like" cave, that is very challenging. As of now, there are 2 different instances available. All instances are recommended to be run with a **full team of 5** for safety and speed.
+Instances are a "dungeon-like" cave that is very challenging. As of now, there are 2 different instances available. All instances are recommended to be run with a **full team of 5** for safety and speed.
+
+**Strategy**
+- Take things slow at first, until you learn how to survive the enemies and how the enemies engage. No more than 1-2 groups at a time.
+- Clerics... keep sanctuary active at all times, and Dispell/Purify at the ready.
+- Guardians... stay in Defensive Stance. You need to be the tank and allow DPS Clerics or Rangers to do the damage.
+- Wizards... **UNDER NO CIRCUMSTANCES** should you ever use spells such as Thunderstorm or Conduit, unless you're prepared to die.
+- Rangers... shoot everything that's already moving.
+- Monks... just do what monks do.
 
 ### Swamp Instance
 
@@ -1086,7 +1094,7 @@ Instances are a "dungeon-like" cave, that is very challenging. As of now, there 
 | Fiery Depths  | 75 | Flame Giun, Fire Elemental, Fire Wisp, ???? |
 
 **Mechanics & Threats**
-- Many of the enemies cast **Fissure** on you which does several thousand damage. Recommend keeping Sanctuary active at **ALL** times.
+- Many of the enemies cast **Fissure** on you inflicting several thousand damage.
 - Fire Wisps apply **Armor Curse**, **Doze**, and have a ranged attack. You will need 
 - This cave generally requires at least a healer and a tank.
 
