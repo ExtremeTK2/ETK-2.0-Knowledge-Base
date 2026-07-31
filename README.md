@@ -39,8 +39,9 @@ It covers classes, crafting, minigames, group strategy, and progression.<br>
     * [5.2 FAQ](#52-faq)
     * [5.3 Minigames](#53-minigames)
     * [5.4 Cave Chart](#54-cave-chart)
-    * [5.5 Gear Lists](#55-gear-lists)
-    * [5.6 Additional Resources](#56-additional-resources)
+    * [5.4 Instances](#54-instances)
+    * [5.6 Gear Lists](#55-gear-lists)
+    * [5.7 Additional Resources](#56-additional-resources)
 ---
 
 ## 1.0 Introduction to the ETK2 Alpha Test
@@ -1074,7 +1075,11 @@ Winning team (20%), Losing team (10%).
 
 ---
 
-## 5.5 Gear Lists
+## 5.5 Instances
+
+---
+
+## 5.6 Gear Lists
 
   * **Will Expand upon this as I get more items to work with.**
 
@@ -1154,7 +1159,7 @@ Yep, That's it.
 ---
 
 
-## 5.6 Additional Resources
+## 5.7 Additional Resources
 
 **Official ETK Website:**
 https://therealmofchaos.com/
