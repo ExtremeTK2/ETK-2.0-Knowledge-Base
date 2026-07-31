@@ -1086,8 +1086,8 @@ Instances are a "dungeon-like" cave, that is very challenging. As of now, there 
 | Fiery Depths  | 75 |  |
 
 **Mechanics & Threats**
-- Many of the enemies cast **Fissure** on you, and does several thousand damage.
-- Fire Wisps apply **Armor Curse**, **Doze**, and have a ranged attack.
+- Many of the enemies cast **Fissure** on you which does several thousand damage. Recommend keeping Sanctuary active at **ALL** times.
+- Fire Wisps apply **Armor Curse**, **Doze**, and have a ranged attack. You will need 
 - This cave generally requires at least a healer and a tank.
 
 **Loot**
@@ -1102,7 +1102,7 @@ Instances are a "dungeon-like" cave, that is very challenging. As of now, there 
 
 ## 5.6 Gear Lists
 
-  * **Will Expand upon this as I get more items to work with.**
+  * **Will expand upon this as I get more items to work with.**
 
 ---
 
@@ -1196,7 +1196,7 @@ https://etk2tnlcalc.netlify.app/
 ---
 ---
 
-,**Last updated:** 6/19/2026  
+,**Last updated:** 7/30/2026  
 **Version:** ETK2 Alpha Knowledge Base v1.0  
 **Original Author** Adv / .\_a\_o_i\_.7<br>
 **Recently Updated by:** CerealKiller
