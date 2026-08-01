@@ -579,7 +579,7 @@ You can also transcend your power by attuning to Yeonghwa's Aspect. To do this, 
 ---
 
 ## 3.0 Crafting Systems
-This section elaborates every crafting system in full.
+This section elaborates on every crafting skill. The gathering skills have now been combined with the manufacturing skills. The gathering functions remain unchanged, but the exp for it now contributes to the exp of the manufacturing skill.
 
 ---
 
@@ -618,7 +618,7 @@ To begin weaving, you must first collect furs.
 
 Weaving is done at the tailor.  
 Fur must be woven into cloth before tailoring.
-  dddds
+  
 | Fur Used | Success Result | Fail Result |
 | :--- | :--- | :--- |
 | Fox Fur | Tattered Cloth | Tattered Scraps |
@@ -628,7 +628,7 @@ Fur must be woven into cloth before tailoring.
 | Wolf's Fur | Fine Cloth | Fine Scraps |
 
 
-The tailor allows creation of monk/wizard/cleric armor.  
+The tailor allows the creation of monk/wizard/cleric armor.  
 It also allows crafting of:
 
 | Class | Item | Lvl to equip | Mats needed |
@@ -643,7 +643,7 @@ It also allows crafting of:
 You can enhance all of these items and monk gloves (weapon).  
 Higher‑level crafts require **Resilient Thread**, purchasable from the tailor under Misc.
 
-Again here, the scraps received from weaving can be used to enhance throwaway gear for additional experience.
+Again, the scraps received from weaving can be used to enhance throwaway gear for additional experience.
 
 ---
 
@@ -663,7 +663,23 @@ To begin gemcutting, you must obtain gems.
 | **T4** | Quartz | Swamp |
 
 
-Cracked gems can be used to enhance throwaway jewelery for additional experience.
+Cracked and dull gems can be used to enhance jewelry for additional experience. Enhancing jewelry can increase the stats of the jewelry.
+
+### Jewelry
+
+| Item | Lvl to equip | Mats needed |
+| :--- | :--- | :--- |
+| Beginner Band | 1 | 5x Dull Jade |
+| Jade Ring | 1 | 5x Polished Jade |
+| Emerald Ring | 1 | 20x Polished Emerald |
+| Sapphire Ring | 1 | 20x Polished Sapphire |
+| Ruby Ring | 1 | 20x Polished Ruby |
+| Jade Pendant | 1 | 15x Polished Jade, 1x Perfect Jade |
+| Emerald Pendant | 1 | 10x Polished Emerald |
+| Bold Emerald Pendant | 1 | 25x Polished Emerald, 1x Perfect Emerald |
+| Sapphire Pendant | 1 | 15x Polished Sapphire, 1x Perfect Sapphire |
+| Ruby Pendant | 1 | 15x Polished Ruby, 1x Perfect Ruby |
+
 
 ---
 
