@@ -669,23 +669,23 @@ Cracked and dull gems can be used to enhance jewelry for additional experience. 
 
 | Item | Lvl to equip | Mats needed |
 | :--- | :--- | :--- |
-| Beginner Band | 1 | 5x Dull Jade |
-| Jade Ring | 1 | 5x Polished Jade |
-| Emerald Ring | 1 | 20x Polished Emerald |
-| Sapphire Ring | 1 | 20x Polished Sapphire |
-| Ruby Ring | 1 | 20x Polished Ruby |
-| Jade Pendant | 1 | 15x Polished Jade, 1x Perfect Jade |
-| Emerald Pendant | 1 | 10x Polished Emerald |
-| Bold Emerald Pendant | 1 | 25x Polished Emerald, 1x Perfect Emerald |
-| Sapphire Pendant | 1 | 15x Polished Sapphire, 1x Perfect Sapphire |
-| Ruby Pendant | 1 | 15x Polished Ruby, 1x Perfect Ruby |
+| Beginner Band | 6 | 5x Dull Jade |
+| Jade Ring | 16 | 5x Polished Jade |
+| Emerald Ring | 35 | 20x Polished Emerald |
+| Sapphire Ring | 56 | 20x Polished Sapphire |
+| Ruby Ring | 56 | 20x Polished Ruby |
+| Jade Pendant | 16 | 15x Polished Jade, 1x Perfect Jade |
+| Emerald Pendant | 35 | 10x Polished Emerald |
+| Bold Emerald Pendant | 49 | 25x Polished Emerald, 1x Perfect Emerald |
+| Sapphire Pendant | 65 | 15x Polished Sapphire, 1x Perfect Sapphire |
+| Ruby Pendant | 65 | 15x Polished Ruby, 1x Perfect Ruby |
 
 
 ---
 
 ## 3.4 Woodcutting / Carpentry
 
-**Updating in progress**
+### Woodcutting
 
 To begin woodcutting, go to the carpenter in Seonhwa. Click Learn Woodcutting. 
 
@@ -696,6 +696,9 @@ To begin woodcutting, go to the carpenter in Seonhwa. Click Learn Woodcutting.
 | Wilderness Den | Maple tree | Steel Axe |
 | Wolf's Run | Cherry tree | Steel Axe |
 
+### Carpentry
+
+Carpentry allows you to enhance bows, shields, and monk gloves. Each enhancement can increase the stats of each item.
 
 ---
 
