@@ -573,7 +573,9 @@ You can also transcend your power by attuning to Yeonghwa's Aspect. To do this, 
 | Guardian | the Unbroken Wall | + mitigation & threat in Defensive Stance |
 | Cleric | the Cleansing Water | + healing done |
 | Cleric | the Burning Purge | + damage dealt |
-| Ranger |  |  |
+| Ranger | the Far Sight | + damage while wielding a bow |
+| Ranger | the Swooping Talon | + damage while wielding a melee weapon |
+| Monk |  |  |
 | Monk |  |  |
 
 ---
