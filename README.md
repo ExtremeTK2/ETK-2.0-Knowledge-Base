@@ -575,8 +575,9 @@ You can also transcend your power by attuning to Yeonghwa's Aspect. To do this, 
 | Cleric | the Burning Purge | + damage dealt |
 | Ranger | the Far Sight | + damage while wielding a bow |
 | Ranger | the Swooping Talon | + damage while wielding a melee weapon |
-| Monk |  |  |
-| Monk |  |  |
+| Monk | the Striking Fang | + damage in Searing Stance |
+| Monk | the Enduring Beast | + mitigation & threat in Tidal Stance |
+| Monk | the Sheltering Storm | + healing in Radiant Stance |
 
 ---
 
